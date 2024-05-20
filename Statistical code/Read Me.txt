@@ -1,0 +1,2 @@
+R code for calculating the practice-specific weights for the 30 MIDAS practices. 
+For it to work you have to set up a project folder and download the three csv files from the online sources listed in the R code.
