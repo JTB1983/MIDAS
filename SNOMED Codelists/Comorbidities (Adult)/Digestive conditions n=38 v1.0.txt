@@ -1,0 +1,39 @@
+SnomedCTConceptId	Description	2019-2020	2020-2021
+397881000	Diverticular disease (disorder)	49.00036094	46.59883792
+197321007	Steatosis of liver	19.69999906	24.09120331
+307496006	Diverticulitis (disorder)	19.16664557	20.82259774
+64766004	Ulcerative colitis (disorder)	19.74941519	20.5248469
+34000006	Crohn's disease (disorder)	19.91470366	19.5267994
+197315008	Non-alcoholic fatty liver (disorder)	13.31338921	15.63108731
+398050005	Diverticular disease of colon (disorder)	5.774872139	6.59376717
+64226004	Colitis (disorder)	4.743949258	6.319304107
+19943007	Cirrhosis of liver (disorder)	4.060643348	4.78730119
+24526004	Inflammatory bowel disease (disorder)	3.963515077	4.336516401
+50711007	Viral hepatitis type C (disorder)	3.556257939	3.002459572
+235494005	Chronic pancreatitis	2.944520229	2.877703634
+41309000	Alcoholic liver damage (disorder)	1.818173081	2.084255869
+28670008	Esophageal varices (disorder)	1.704004762	1.892963431
+50325005	Alcoholic fatty liver (disorder)	1.537012296	1.675056393
+408335007	Autoimmune hepatitis (disorder)	1.565980376	1.490417605
+111359004	Diverticulitis of colon	1.160427243	1.432198167
+295046003	Ulcerative proctocolitis (disorder)	1.499524191	1.428871342
+50440006	Crohn's disease of colon (disorder)	1.361499805	1.339047067
+61977001	Chronic type B viral hepatitis (disorder)	1.218363405	1.087871778
+31712002	Primary biliary cholangitis (disorder)	1.177467291	1.084544953
+34742003	Portal hypertension (disorder)	0.957650676	1.074564478
+18027006	Transplantation of liver (procedure)	0.925274586	1.024662103
+52231000	Chronic ulcerative proctitis (disorder)	0.944018638	1.006364566
+420054005	Alcoholic cirrhosis (disorder)	1.957901472	0.934837828
+328383001	Chronic liver disease (disorder)	0.855410391	0.893252515
+19311003	Collagenous colitis (disorder)	0.812810272	0.864974503
+235753003	Microscopic colitis (disorder)	0.833258329	0.801764827
+14066009	Noninfectious colitis (disorder)	1.053074943	0.780140465
+62484002	Hepatic fibrosis (disorder)	0.531649486	0.753525865
+235875008	Alcoholic hepatitis (disorder)	0.613441714	0.735228327
+13920009	Hepatic encephalopathy (disorder)	0.5367615	0.623779689
+444548001	Ulcerative pancolitis (disorder)	0.543577519	0.615462627
+196977009	Crohn's disease of terminal ileum (disorder)	0.54016951	0.583857789
+128241005	Inflammatory disease of liver	0.514609438	0.582194377
+31437008	Lymphocytic-plasmacytic colitis (disorder)	0.628777757	0.547262714
+197279005	Cirrhosis and chronic liver disease (disorder)	0.482233348	0.547262714
+235746007	Indeterminate colitis (disorder)	0.535057495	0.513994464

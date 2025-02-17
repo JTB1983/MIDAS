@@ -1,0 +1,81 @@
+SNOMED Concept ID	DISPLAY	2019-2020	2020-2021
+720006006	Cancer care review (procedure)	87.7000131	84.45976994
+399068003	Malignant tumor of prostate (disorder)	46.159785	42.74637456
+372064008	Malignant neoplasm of female breast (disorder)	32.87025186	30.70493143
+254701007	Basal cell carcinoma of skin (disorder)	27.92352604	24.48543207
+254651007	Squamous cell carcinoma of skin (disorder)	7.09547583	8.1141262
+363406005	Malignant neoplasm of colon (disorder)	7.364708582	7.398858823
+363358000	Malignant tumor of lung (disorder)	6.981307511	6.134665319
+93880001	Primary malignant neoplasm of lung (disorder)	6.214505368	6.046504456
+254837009	Malignant neoplasm of breast (disorder)	3.701098344	5.858538843
+93655004	Malignant melanoma of skin (disorder)	5.715231972	5.254720103
+109989006	Multiple myeloma (disorder)	4.767805325	4.857164515
+363351006	Malignant tumor of rectum (disorder)	3.239313053	4.808925552
+94381002	Secondary malignant neoplasm of liver (disorder)	3.534105877	3.759312261
+277577000	Monoclonal gammopathy of uncertain significance (disorder)	3.315993267	3.744341549
+363443007	Malignant tumor of ovary (disorder)	3.649978201	3.682795286
+363418001	Malignant tumor of pancreas (disorder)	3.51024981	3.568019823
+92814006	"Chronic lymphoid leukemia, disease (disorder)"	3.353481372	3.42662976
+128462008	Secondary malignant neoplastic disease (disorder)	2.561119158	2.826137846
+363410008	Malignant tumor of sigmoid colon (disorder)	2.087405834	2.393650595
+254900004	Carcinoma of prostate (disorder)	2.363454605	2.237289819
+188192002	Malignant neoplasm of endometrium of corpus uteri (disorder)	2.193054129	2.190714269
+363478007	Malignant tumor of thyroid gland (disorder)	1.458628076	2.147465544
+399326009	Malignant tumor of urinary bladder (disorder)	4.566732763	2.092572931
+118601006	Non-Hodgkin's lymphoma (disorder)	2.063549767	1.824763518
+363518003	Malignant tumor of kidney (disorder)	1.279707576	1.783178205
+94391008	Secondary malignant neoplasm of lung (disorder)	1.484188148	1.77985138
+109994006	Essential thrombocythemia (disorder)	1.821581091	1.778187968
+109992005	Polycythemia vera (disorder)	1.761940924	1.691690518
+254626006	Adenocarcinoma of lung (disorder)	1.218363405	1.685036868
+94222008	Secondary malignant neoplasm of bone (disorder)	1.630732557	1.588558942
+363354003	Malignant tumor of cervix (disorder)	1.477372129	1.468793242
+428061005	Malignant neoplasm of brain (disorder)	1.57790841	1.463803004
+395099008	Cancer confirmed (situation)	1.404099924	1.462139592
+847741000000106	Diffuse large B-cell lymphoma (disorder)	2.43672681	1.433861579
+91861009	"Acute myeloid leukemia, disease (disorder)"	1.458628076	1.403920154
+363508008	Malignant tumor of intestine (disorder)	1.204731367	1.373978729
+363349007	Malignant tumor of stomach (disorder)	1.370019829	1.363998254
+82711006	Infiltrating duct carcinoma (morphologic abnormality)	1.054778948	1.359008017
+2092003	"Malignant melanoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)"	1.141683191	1.329066592
+372130007	Malignant neoplasm of skin (disorder)	1.404099924	1.322412942
+254838004	Carcinoma of breast (disorder)	1.228587434	1.295798341
+94225005	Secondary malignant neoplasm of brain (disorder)	0.913346553	1.275837391
+109995007	Myelodysplastic syndrome (disorder)	1.652884619	1.242569141
+308121000	Follicular non-Hodgkin's lymphoma (disorder)	1.346163762	1.182686291
+118599009	Hodgkin's disease (disorder)	1.32741971	1.149418041
+92818009	"Chronic myeloid leukemia, disease (disorder)"	1.044554919	1.126130266
+63634009	"Glioblastoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)"	1.1093071	1.066247416
+4590003	"Adenocarcinoma, metastatic (morphologic abnormality)"	1.163835253	1.046286466
+712837004	Active surveillance of prostate cancer (regime/therapy)	0.93379461	1.026325516
+118600007	Malignant lymphoma (disorder)	0.925274586	0.991393853
+363393007	Malignant tumor of tonsil (disorder)	0.720794014	0.97642314
+70179006	Cholangiocarcinoma (morphologic abnormality)	0.988322762	0.959789015
+177281002	Excision of melanoma (procedure)	0.990026767	0.948145128
+363375006	Malignant tumor of tongue (disorder)	0.843482357	0.921530528
+363402007	Malignant tumor of esophagus (disorder)	2.639503377	0.888262278
+30289006	Endometrioid carcinoma (morphologic abnormality)	0.715682	0.848340378
+363449006	Malignant tumor of testis (disorder)	0.804290248	0.798438002
+254582000	Adenocarcinoma of rectum (disorder)	1.634140567	0.778477052
+363346000	Malignant neoplastic disease (disorder)	0.727610033	0.745208802
+254634000	Squamous cell carcinoma of lung (disorder)	0.521425457	0.693643015
+394932008	Gleason prostate grade 5-7 (medium) (finding)	0.811106267	0.685325952
+41607009	Renal cell carcinoma (morphologic abnormality)	1.128051153	0.647067464
+254637007	Non-small cell lung cancer (disorder)	0.4294092	0.642077227
+254632001	Small cell carcinoma of lung (disorder)	0.436225219	0.637086989
+187862007	Malignant neoplasm of upper lobe of lung (disorder)	0.676489891	0.628769927
+91857003	"Acute lymphoid leukemia, disease (disorder)"	0.560617567	0.613799214
+363429002	Malignant tumor of larynx (disorder)	0.586177638	0.588848027
+363352004	Malignant tumor of anal canal (disorder)	0.546985529	0.578867552
+254878006	Endometrial carcinoma (disorder)	0.531649486	0.573877314
+255107005	Seminoma of testis (disorder)	0.584473633	0.562233427
+94248000	Secondary malignant neoplasm of cerebrum (disorder)	0.891194491	0.558906602
+55921005	"Multiple myeloma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)"	1.030922881	0.530628589
+363412000	Malignant tumor of ascending colon (disorder)	0.403849129	0.518984702
+21964009	"Malignant lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)"	1.029218876	0.512331052
+255109008	Transitional cell carcinoma of bladder (disorder)	0.5009774	0.467418914
+94392001	Secondary malignant neoplasm of lymph node (disorder)	0.509497424	0.467418914
+419052002	Malignant tumor of urinary system (disorder)	0.731018043	0.465755501
+109841003	Liver cell carcinoma (disorder)	0.800882238	0.380921464
+363350007	Malignant tumor of cecum (disorder)	0.688417924	0.307731313
+115232000	Mesothelial neoplasm (morphologic abnormality)	0.511201429	0.286106951

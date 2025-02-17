@@ -1,0 +1,169 @@
+SnomedCTConceptId	Description	Type_CVD	2019-2020	2020-2021
+49436004	Atrial fibrillation (disorder)	Atrial Fibrillation	102.5027025	99.03625373
+315614006	Coronary heart disease annual review (procedure)	Coronary Heart Disease	99.832527	90.6792693
+414545008	Ischemic heart disease (disorder)	Coronary Heart Disease	58.82735641	54.11413561
+84114007	Heart failure (disorder)	Heart Failure	33.33033315	40.25790945
+401250009	Coronary heart disease monitoring first letter (finding)	Coronary Heart Disease	39.44600624	33.53273269
+699270006	Cerebrovascular accident annual review (regime/therapy)	Stroke/TIA	28.88117671	27.30657968
+170601008	Coronary heart disease monitoring (regime/therapy)	Coronary Heart Disease	34.96958573	26.63788786
+390885007	Heart failure annual review (regime/therapy)	Heart Failure	12.21430614	26.61792691
+248411000000105	Atrial fibrillation annual review (regime/therapy)	Atrial Fibrillation	45.04706989	25.17741168
+59282003	Pulmonary embolism (disorder)	Coronary Heart Disease	21.16203514	24.8879779
+266257000	Transient ischemic attack (disorder)	Stroke/TIA	23.63965807	23.94482301
+230690007	Cerebrovascular accident (disorder)	Stroke/TIA	27.19932401	23.78679882
+194828000	Angina (disorder)	Coronary Heart Disease	23.79813051	22.76047331
+417322008	Cardiovascular disease annual review (regime/therapy)	Coronary Heart Disease	24.25309978	20.0723987
+282825002	Paroxysmal atrial fibrillation (disorder)	Atrial Fibrillation	20.17882439	19.17581936
+170594001	Angina control - good (finding)	Coronary Heart Disease	17.48649687	17.68373834
+401314000	Acute non-ST segment elevation myocardial infarction (disorder)	Myocardial Infarction	16.09773299	16.38794
+128053003	Deep venous thrombosis (disorder)	Coronary Heart Disease	16.41978989	16.34136445
+42343007	Congestive heart failure (disorder)	Heart Failure	13.43437355	13.05778816
+415628004	Stroke/transient ischemic attack monitoring first letter (finding)	Stroke/TIA	13.61329405	12.9030908
+134401001	Left ventricular systolic dysfunction (disorder)	Heart Failure	11.36571176	11.93831155
+170600009	Stroke monitoring (regime/therapy)	Stroke/TIA	15.93585254	11.92500425
+390799004	Coronary heart disease review (procedure)	Coronary Heart Disease	9.910491697	11.66218507
+57054005	Acute myocardial infarction (disorder)	Myocardial Infarction	10.71137394	10.44456712
+400047006	Peripheral vascular disease (disorder)	Peripheral Vascular Disease	11.093071	10.42793299
+164889003	Electrocardiographic atrial fibrillation (finding)	Atrial Fibrillation	10.07407615	9.717655855
+202231000000106	Heart failure review completed (situation)	Heart Failure	1.598356467	9.356695341
+407596008	Echocardiogram shows left ventricular systolic dysfunction (finding)	Heart Failure	7.737885625	8.87763254
+717221000000101	Atrial fibrillation monitoring first letter (procedure)	Atrial Fibrillation	11.8445371	8.445145288
+401303003	Acute ST segment elevation myocardial infarction (disorder)	Myocardial Infarction	7.933846173	8.361974663
+401251008	Coronary heart disease monitoring second letter (finding)	Coronary Heart Disease	11.79682497	7.749838861
+5370000	Atrial flutter (disorder)	Atrial Fibrillation	7.19942012	7.107761634
+134377004	Atrial fibrillation monitoring (regime/therapy)	Atrial Fibrillation	7.461836854	7.032908071
+53741008	Coronary arteriosclerosis (disorder)	Coronary Heart Disease	6.275849539	6.695235333
+394659003	Acute coronary syndrome (disorder)	Myocardial Infarction	6.30822563	6.485645357
+404223003	Deep venous thrombosis of lower extremity (disorder)	Coronary Heart Disease	6.44795402	6.334274819
+195080001	Atrial fibrillation and flutter (disorder)	Atrial Fibrillation	6.105449063	5.67057323
+268509003	Cardiac disease monitoring (regime/therapy)	Coronary Heart Disease	6.105449063	5.605700142
+390884006	Heart failure follow-up (finding)	Heart Failure	3.667018248	5.258046928
+233985008	Abdominal aortic aneurysm (disorder)	Coronary Heart Disease	4.382700248	5.186520191
+62914000	Cerebrovascular disease (disorder)	Stroke/TIA	5.503935382	5.00021799
+716971000000109	Heart failure monitoring first letter (procedure)	Heart Failure	6.705258739	4.943661965
+432504007	Cerebral infarction (disorder)	Stroke/TIA	4.641708972	4.88710594
+40283005	Thrombophlebitis of superficial veins of lower extremity (disorder)	Coronary Heart Disease	4.660453025	4.323209101
+716981000000106	Atrial fibrillation monitoring second letter (procedure)	Atrial Fibrillation	3.609082086	4.091994762
+134379001	Peripheral vascular disease monitoring (regime/therapy)	Peripheral Vascular Disease	4.922869758	3.920663274
+21454007	Subarachnoid intracranial hemorrhage (disorder)	Stroke/TIA	3.874906829	3.902365737
+24596005	Venous retinal branch occlusion (disorder)	Coronary Heart Disease	3.851050763	3.706083061
+134378009	Congestive heart failure monitoring (regime/therapy)	Heart Failure	1.767052938	3.602951486
+810241000000107	Cardiac medication review (procedure)	Unsure of type (or drop?)	4.76269331	3.539741811
+85232009	Left heart failure (disorder)	Heart Failure	3.972035101	3.538078398
+443929000	Small vessel cerebrovascular disease (disorder)	Stroke/TIA	3.362001396	3.528097923
+441509002	Cardiac pacemaker in situ (finding)	Coronary Heart Disease	3.772666544	3.488176023
+233819005	Stable angina (disorder)	Coronary Heart Disease	3.089360634	3.34678596
+4557003	Preinfarction syndrome (disorder)	Coronary Heart Disease	3.212048977	3.228683672
+247361000000100	Heart failure 6 month review (regime/therapy)	Heart Failure	5.977648706	3.205395897
+415629007	Stroke/transient ischemic attack monitoring second letter (finding)	Stroke/TIA	5.217662582	3.077313134
+64156001	Thrombophlebitis (disorder)	Coronary Heart Disease	2.936000205	2.997469334
+417206009	Cardiovascular disease monitoring (regime/therapy)	Coronary Heart Disease	4.633188948	2.995805922
+85898001	Cardiomyopathy (disorder)	Coronary Heart Disease	3.126848739	2.904318234
+230361000000100	Pacemaker testing (procedure)	Coronary Heart Disease	4.817221463	2.836118321
+274100004	Cerebral hemorrhage (disorder)	Stroke/TIA	2.968376296	2.811167134
+230698000	Lacunar infarction (disorder)	Stroke/TIA	2.107853891	2.736313571
+716091000000107	Excepted from coronary heart disease quality indicators - informed dissent (finding)	Coronary Heart Disease	11.38445582	2.714689208
+68478007	Central retinal vein occlusion (disorder)	Coronary Heart Disease	2.770711743	2.696391671
+68267002	Benign intracranial hypertension (disorder)	Stroke/TIA	2.053325738	2.446879795
+8186001	Cardiomegaly (disorder)	Coronary Heart Disease	2.453766858	2.39697742
+736368003	Coronary heart disease care plan (record artifact)	Coronary Heart Disease	2.032877681	2.327114095
+394724007	Coronary heart disease medication review (procedure)	Coronary Heart Disease	2.47591892	2.315470207
+717111000000104	Excepted from coronary heart disease quality indicators - patient unsuitable (finding)	Coronary Heart Disease	8.112766673	2.270558069
+446221000	Heart failure with normal ejection fraction (disorder)	Heart Failure	1.640956586	2.164099669
+195111005	Decompensated cardiac failure (disorder)	Heart Failure	2.055029743	2.160772844
+67362008	Aortic aneurysm (disorder)	Coronary Heart Disease	2.268030339	2.100889994
+19242006	Pulmonary edema (disorder)	Heart Failure	2.066957777	2.064294919
+698247007	Cardiac arrhythmia (disorder)	Coronary Heart Disease	1.831805119	1.967816993
+70995007	Pulmonary hypertension (disorder)	Coronary Heart Disease	1.189395324	1.864685418
+195394007	Phlebitis and thrombophlebitis (disorder)	Coronary Heart Disease	2.152158015	1.731612418
+376621000000109	Peripheral vascular disease monitoring first letter (procedure)	Peripheral Vascular Disease	3.312585258	1.681710043
+410429000	Cardiac arrest (disorder)	Coronary Heart Disease	1.7176368	1.61351013
+92506005	Biventricular congestive heart failure (disorder)	Heart Failure	1.605172486	1.590222355
+716581000000101	Excepted from stroke quality indicators - patient unsuitable (finding)	Stroke/TIA	5.544831496	1.578578467
+401252001	Coronary heart disease monitoring third letter (finding)	Coronary Heart Disease	2.803087834	1.576915055
+88032003	Amaurosis fugax (disorder)	Stroke/TIA	1.504636205	1.570261405
+22298006	Myocardial infarction (disorder)	Myocardial Infarction	1.61369251	1.556954105
+233916004	Heart block (disorder)	Unsure of type (or drop?)	1.765348934	1.447168879
+262952002	Traumatic intracranial subdural hematoma (disorder)	Stroke/TIA	1.438180019	1.443842054
+82608003	Atrial dilatation (disorder)	Coronary Heart Disease	1.482484143	1.442178642
+238792006	Mixed arteriovenous leg ulcer (disorder)	Peripheral Vascular Disease	2.041397705	1.413900629
+230691006	Cerebrovascular accident due to occlusion of cerebral artery (disorder)	Stroke/TIA	1.179171295	1.400593329
+717241000000108	Stroke/transient ischaemic attack monitoring telephone invitation (finding)	Stroke/TIA	2.501478991	1.380632379
+64586002	Carotid artery stenosis (disorder)	Stroke/TIA	1.346163762	1.335720242
+395704004	Left ventricular diastolic dysfunction (disorder)	Heart Failure	1.29163561	1.335720242
+716021000000109	Excepted from stroke quality indicators - informed dissent (finding)	Stroke/TIA	5.495415358	1.332393417
+248461000000107	Coronary heart disease monitoring telephone invitation (regime/therapy)	Coronary Heart Disease	4.503684587	1.300788579
+233184008	Maintenance procedure for cardiac pacemaker system (procedure)	Coronary Heart Disease	1.393875895	1.290808104
+715941000000109	Excepted from atrial fibrillation quality indicators - patient unsuitable (finding)	Atrial Fibrillation	3.517065829	1.270847154
+233817007	Triple vessel disease of the heart (disorder)	Unsure of type (or drop?)	1.257555515	1.257539854
+35486000	Subdural intracranial hemorrhage (disorder)	Stroke/TIA	1.116123119	1.249222791
+735984001	Heart failure self management plan (record artifact)	Heart Failure	0.190848533	1.239242316
+717481000000104	Excepted from heart failure quality indicators - patient unsuitable (finding)	Heart Failure	3.087656629	1.224271604
+251036003	Aortic root dilatation (disorder)	Coronary Heart Disease	1.049666934	1.154408279
+95460007	Cerebellar infarction (disorder)	Stroke/TIA	1.059890962	1.151081454
+401253006	Coronary heart disease monitoring verbal invitation (finding)	Coronary Heart Disease	1.519972248	1.144427803
+238793001	Ischemic leg ulcer (disorder)	Peripheral Vascular Disease	1.281411581	1.124466853
+417540008	Stroke/transient ischemic attack monitoring invitation (finding)	Stroke/TIA	0.944018638	1.121140028
+390907003	Coronary heart disease monitoring administration (regime/therapy)	Coronary Heart Disease	1.564276372	1.047949878
+717191000000108	Heart failure monitoring second letter (procedure)	Heart Failure	2.044805715	1.001374328
+307766002	Left sided cerebral infarction (disorder)	Stroke/TIA	0.964466695	0.97642314
+2477008	Superficial thrombophlebitis (disorder)	Coronary Heart Disease	1.073523	0.96976949
+170590005	Cardiac drug monitoring (regime/therapy)	Unsure of type (or drop?)	0.472009319	0.946481715
+95453001	Subdural intracranial hematoma (disorder)	Stroke/TIA	0.852002381	0.924857353
+73795002	Acute myocardial infarction of inferior wall (disorder)	Myocardial Infarction	0.853706386	0.92319394
+703272007	Heart failure with reduced ejection fraction (disorder)	Heart Failure	0.207888581	0.88992569
+8722008	Aortic valve disorder (disorder)	Coronary Heart Disease	0.988322762	0.868301328
+88805009	Chronic congestive heart failure (disorder)	Heart Failure	0.690121929	0.858320853
+170593007	Angina control (finding)	Coronary Heart Disease	1.249035491	0.854994028
+164890007	Electrocardiographic atrial flutter (finding)	Atrial Fibrillation	0.824738305	0.851667203
+266267005	Deep vein phlebitis and thrombophlebitis of the leg (disorder)	Coronary Heart Disease	0.763394133	0.85000379
+307767006	Right sided cerebral infarction (disorder)	Stroke/TIA	0.8588184	0.848340378
+11399002	Pulmonary hypertensive arterial disease (disorder)	Coronary Heart Disease	1.146795205	0.83669649
+717531000000102	Heart failure monitoring telephone invitation (procedure)	Heart Failure	0.753170105	0.80342824
+111293003	Venous thrombosis (disorder)	Coronary Heart Disease	0.669673872	0.786794115
+443502000	Atherosclerosis of coronary artery (disorder)	Coronary Heart Disease	0.906530533	0.78346729
+164898000	Electrocardiographic heart block (finding)	Unsure of type (or drop?)	0.906530533	0.76350634
+401332000	Coronary heart disease monitoring check done (finding)	Coronary Heart Disease	1.049666934	0.761842927
+230695002	Partial anterior cerebral circulation infarction (disorder)	Stroke/TIA	0.775322167	0.761842927
+717381000000109	Excepted from atrial fibrillation quality indicators - informed dissent (finding)	Atrial Fibrillation	2.446950839	0.685325952
+20059004	Occlusion of cerebral artery (disorder)	Stroke/TIA	0.758282119	0.667028415
+978421000000101	Unprovoked deep vein thrombosis (disorder)	Coronary Heart Disease	1.093971057	0.652057702
+1386000	Intracranial hemorrhage (disorder)	Stroke/TIA	0.591289652	0.647067464
+1110981000000104	Quality and Outcomes Framework stroke and transient ischaemic attack quality indicator-related care invitation (procedure)	Stroke/TIA	0.264120738	0.625443102
+417287002	Cardiovascular disease interim monitoring (regime/therapy)	Coronary Heart Disease	1.235403453	0.620452864
+17920008	Portal vein thrombosis (disorder)	Coronary Heart Disease	0.5725456	0.618789452
+716721000000107	Atrial fibrillation monitoring telephone invitation (procedure)	Atrial Fibrillation	0.957650676	0.617126039
+233370007	Aortic aneurysm repair (procedure)	Coronary Heart Disease	0.739538067	0.605482152
+710167004	Recurrent deep vein thrombosis (disorder)	Coronary Heart Disease	0.565729581	0.602155327
+195302000	Gangrene of toe (disorder)	Coronary Heart Disease	0.557209557	0.592174852
+194842008	Single coronary vessel disease (disorder)	Unsure of type (or drop?)	0.652633824	0.587184614
+13213009	Congenital heart disease (disorder)	Coronary Heart Disease	0.519721452	0.570550489
+56267009	Multi-infarct dementia (disorder)	Stroke/TIA	0.872450438	0.547262714
+253361002	Left atrial dilatation (disorder)	Coronary Heart Disease	0.674785886	0.545599302
+415631003	Stroke/transient ischemic attack monitoring third letter (finding)	Stroke/TIA	1.015586838	0.542272477
+10633002	Acute congestive heart failure (disorder)	Heart Failure	0.485641357	0.542272477
+40541001	Acute pulmonary edema (disorder)	Heart Failure	0.625369748	0.517321289
+170597008	Angina control - worsening (finding)	Coronary Heart Disease	0.490753372	0.502350577
+233961000	Lower limb ischemia (disorder)	Peripheral Vascular Disease	0.604921691	0.499023752
+713801000000102	Atrial fibrillation monitoring administration (record artifact)	Atrial Fibrillation	2.963264281	0.497360339
+230287006	Mixed cortical and subcortical vascular dementia (disorder)	Stroke/TIA	0.557209557	0.497360339
+717491000000102	Excepted from heart failure quality indicators - informed dissent (finding)	Heart Failure	1.214955395	0.492370101
+42994005	Nonruptured cerebral aneurysm (disorder)	Stroke/TIA	0.587881643	0.475735976
+46085004	Thrombosis of retinal vein (disorder)	Coronary Heart Disease	0.5009774	0.440804314
+519751000000106	Cerebrovascular accident 6 month review (regime/therapy)	Stroke/TIA	0.816218281	0.427497014
+978441000000108	Provoked deep vein thrombosis (disorder)	Coronary Heart Disease	0.805994253	0.422506776
+195216008	Left sided cerebral hemisphere cerebrovascular accident (disorder)	Stroke/TIA	0.841778353	0.410862889
+863151000000105	Peripheral vascular disease monitoring second letter (procedure)	Peripheral Vascular Disease	1.221771415	0.394228764
+195217004	Right sided cerebral hemisphere cerebrovascular accident (disorder)	Stroke/TIA	0.771914157	0.389238526
+88223008	Secondary pulmonary hypertension (disorder)	Coronary Heart Disease	0.633889772	0.385911701
+847611000000104	Atrial fibrillation care pathway (regime/therapy)	Atrial Fibrillation	1.54212431	0.355970276
+781051000000108	Has heart failure management plan (finding)	Heart Failure	1.020698853	0.317711788
+713771000000100	Stroke/transient ischaemic attack monitoring administration (record artifact)	Stroke/TIA	0.950834657	0.291097188
+441481000000107	[V]Fitting or adjustment of cardiac pacemaker (situation)	Coronary Heart Disease	0.887786481	0.277789888
+1083131000000100	Coronary heart disease monitoring invitation email (procedure)	Coronary Heart Disease	0.71909001	0.244521638
+713791000000101	Heart failure monitoring administration (record artifact)	Heart Failure	0.891194491	0.239531401
+717011000000100	Atrial fibrillation monitoring verbal invitation (procedure)	Atrial Fibrillation	0.645817805	0.222897276
+376591000000106	Peripheral vascular disease monitoring invitation (procedure)	Peripheral Vascular Disease	0.538465505	0.192955851
+716181000000109	Atrial fibrillation monitoring third letter (procedure)	Atrial Fibrillation	0.763394133	0.184638788
+399957001	Peripheral arterial occlusive disease (disorder)	Peripheral Vascular Disease	0.724202024	0.174658313
+716621000000101	Heart failure monitoring third letter (procedure)	Heart Failure	0.514609438	0.128082763

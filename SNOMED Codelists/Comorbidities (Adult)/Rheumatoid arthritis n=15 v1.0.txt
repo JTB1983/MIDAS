@@ -1,0 +1,16 @@
+SnomedCTConceptId	Description	2019-2020	2020-2021
+847261000000104	rheumatoid arthritis annual review	143.7345057	48.43524532
+69896004	rheumatoid arthritis	47.37985241	41.67846373
+9631008	other rheumatoid arthritis of spine	4.841077529	4.971939978
+239792003	seronegative rheumatoid arthritis	5.573799577	4.948652203
+882401000000106	rheumatoid arthritis monitoring invitation first letter	14.57776074	4.581038039
+239791005	"seropositive rheumatoid arthritis, unspecified"	4.384404253	4.391409013
+84017003	rheumatoid bursitis	3.881722848	3.869097487
+882421000000102	rheumatoid arthritis monitoring invitation second letter	5.923120553	1.177696054
+882321000000105	rheumatoid arthritis monitoring invitation	2.872952029	0.98307679
+275902004	rheumatoid arthrit. monitoring	1.320603691	0.96976949
+805961000000106	except rheumatoid arthritis quality indicator: pt unsuitable	3.631234148	0.88327204
+805981000000102	except rheumatoid arthritis qual indicator: informed dissent	4.554804729	0.868301328
+882481000000101	rheumatoid arthritis monitoring telephone invitation	1.768756943	0.504013989
+882441000000109	rheumatoid arthritis monitoring invitation third letter	1.165539257	0.216243626
+882461000000105	rheumatoid arthritis monitoring verbal invitation	0.64752181	0.181311963

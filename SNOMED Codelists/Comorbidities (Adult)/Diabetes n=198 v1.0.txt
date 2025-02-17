@@ -1,0 +1,199 @@
+SnomedCTConceptId	Description	2019-2020	2020-2021
+44054006	Maturity onset diabetes	523.6372554	559.347406
+170777000	Diabetic annual review	498.1845363	519.5851935
+394671009	On examination - Right diabetic foot at low risk	423.8728886	469.9622716
+394675000	On examination - Left diabetic foot at low risk	423.5354957	468.9742046
+134395001	Diabetic retinopathy screening	266.8147697	259.4540923
+170742000	Diabetes management plan given	260.0583908	211.0437982
+185229005	Seen in diabetic clinic	170.8264774	162.3939726
+703040004	Diabetes care plan agreed	130.8863098	144.8399805
+170746002	Diabetic on oral treatment	132.4386581	127.6286513
+170774007	Diabetes: practice program	101.604692	126.3311895
+185756006	Diabetes monitoring 1st letter	145.8406556	117.1258647
+858301000000107	Pre-diabetes (disorder)	158.8149478	99.22588275
+401191002	Diabetic foot examination	62.41939844	91.12506385
+390850007	O/E - no right diabetic retinopathy	96.29160511	89.44002698
+390853009	O/E - no left diabetic retinopathy	96.20981288	89.1888517
+170744004	Follow-up diabetic assessment	71.3841675	87.62524394
+700449008	Non-diabetic hyperglycemia (disorder)	54.69173685	82.35887995
+313340009	Seen in diabetic eye clinic	74.76661695	80.26464361
+754081000000109	Diabetic dietary review	205.3581339	79.45456172
+754121000000107	Type 2 diabetic dietary review	151.8557924	67.25343099
+811981000000102	Diabetes self-management plan agreed	131.692304	65.91937416
+394682001	On examination - Right diabetic foot at moderate risk	65.03163775	65.684833
+394681008	On examination - Left diabetic foot at moderate risk	64.91746943	65.49520397
+279321000000104	Diabetes type II review	81.88594885	62.88863658
+306591000000103	Diabetes structured education programme declined	116.6289019	53.28575619
+46635009	Type 1 diabetes mellitus	48.10575844	51.22146127
+269823000	Hb. A1C - diabetic control	30.79647807	50.83554957
+705072004	Diabetes monitor invitation by SMS (short message service)	41.73107663	49.96891165
+408410002	On examination - left eye background diabetic retinopathy	35.22689045	45.99002894
+408409007	On examination - right eye background diabetic retinopathy	35.30868268	45.82368769
+73211009	Insulin dependent diabetes maturity onset	42.60011906	44.81233289
+170745003	Diet controlled diabetes mellitus	43.65830601	41.08628887
+923361000000106	Diabetic foot care education	12.05072168	39.03031102
+367011000000100	Diabetic foot screen	88.47874327	37.98568797
+394725008	Diabetes medication review	44.30923583	37.91748805
+170763003	Diabetic - good control	34.04942316	37.87922957
+198501000000100	Diabetic 6 month review	95.51117093	37.76611751
+415270003	Referral to diabetes structured education program	38.82574851	37.42511795
+887861000000105	Diabetes Year of Care annual review	41.25054728	32.52137789
+268519009	Diabetes mellitus uncontrolled	21.31880358	29.82664963
+170747006	Diabetic on insulin	31.69960059	28.74709491
+185757002	Diabetes monitoring 2nd letter	46.9828193	26.59630254
+284350006	[V]Dietary counselling in diabetes mellitus	30.81181411	25.97751309
+199301000000100	Did not attend diabetic retinopathy clinic	50.94122237	25.66312813
+713671000000109	Diabetes monitoring admin.	62.89651978	24.79316339
+390834004	BDR - Background diabetic retinopathy	21.52669216	23.68865748
+700414001	Advice about diabetes and driving	22.62066322	22.39618597
+407569005	Patient on maximal tolerated therapy for diabetes	46.71699456	22.14002044
+412752009	Diabetic foot examination declined	19.38816618	17.69704564
+185760009	Diabetes monitor.phone invite	18.1425387	17.66211398
+268517006	Injection sites - diabetic	16.52714219	17.25624133
+394672002	On examination - Right diabetic foot at high risk	18.52764378	17.2262999
+394676004	On examination - Left diabetic foot at high risk	18.44244354	17.11152444
+11687002	Gestational diabetes mellitus (disorder)	14.42780832	16.81044678
+736284000	Diabetes clinical management plan	15.7807881	15.62443366
+204061000000100	Diabetic with adequate control (finding)	21.81978098	15.10711237
+4855003	Insulin dependent diabetes mellitus with retinopathy	12.46479484	15.00897103
+394683006	Diabetic foot risk assessment	9.927531745	14.38020111
+248161000000101	Referral for diabetic retinopathy screening (procedure)	24.89891759	14.32530849
+314194001	Diabetic on insulin and oral treatment	11.60256843	13.58009969
+170775008	Diabetes: shared care program	11.43727996	13.44037304
+270445003	Diabetes monitor. check done	14.49596851	12.5970229
+1066911000000100	Diabetes monitoring short message service text message first invitation (procedure)	18.35213129	12.39907681
+408394009	Under care of diabetic foot screener	14.65103295	12.26600381
+401081006	Diabetic peripheral neuropathy screening	15.80805218	12.17950636
+390855002	O/E - diabetic maculopathy absent both eyes	13.22307695	11.82353609
+385805005	Health education - diabetes	14.12619948	11.81022879
+237599002	Diabetes type 2 on insulin	12.01323357	11.77862395
+398985007	Diabetic monitoring - injection sites normal (finding)	9.731571197	11.37441471
+716031000000106	Excepted from diabetes quality indicators: Informed dissent	45.43387897	11.31286845
+756391000000103	O/E - Right diabetic foot at increased risk	22.15887793	10.99515666
+756381000000100	O/E - Left diabetic foot at increased risk	22.15546992	10.96355182
+932321000000105	Diabetes key contact	30.56814143	10.94525428
+407672007	Seen in diabetic foot clinic	10.73523	10.64916686
+306741000000104	Referral to DESMOND (diabetes education and self management for ongoing and newly diagnosed) diabetes structured programme	27.9797582	10.55102552
+390890005	Refer to diabetic foot screener	12.94873219	10.29985023
+408397002	Diabetic foot examination not indicated	7.516365006	9.769221642
+769245002	Disorder of left macula co-occurrent and due to diabetes mellitus	6.459882054	8.598179239
+769244003	Disorder of right macula co-occurrent and due to diabetes mellitus	6.37638582	8.466769651
+170778005	Annual diabetic blood test	9.044857278	8.015984862
+310425007	Diabetes monitoring invitation (procedure)	8.42289554	7.643380461
+170757007	Fundoscopy - diabetic check	8.226934992	7.392205172
+810961000000103	Diabetes self-management plan review	13.00837235	7.375571047
+413122001	Diabetic retinopathy screening refused	8.342807316	7.295727247
+185758007	Diabetes monitoring 3rd letter	14.94752977	6.828308333
+781161000000107	Referral to diabetes education and self management for ongoing and newly diagnosed structured programme declined (situation)	17.36040052	6.63368907
+839811000000106	Diabetic retinopathy screening declined (situation)	14.86403354	6.63368907
+185759004	Diabetes monitor.verbal invite	8.671680235	6.565489157
+829521000000104	Provision of diabetes clinical summary	15.45191518	6.44738687
+390922008	DNA - Did not attend diabetic clinic	8.547287887	6.362552832
+170753006	Understands diet - diabetes	7.124443911	6.329284582
+170752001	Has seen dietician - diabetes	8.485943716	6.224489594
+170743005	Initial diabetic assessment	4.607628877	6.038187393
+232020009	Disorder of macula co-occurrent and due to diabetes mellitus	5.115422296	6.031533743
+717421000000100	Excepted from diabetes qual indicators: Patient unsuitable	26.05593682	5.908441218
+413597006	Attended diabetes structured education program	6.983011516	5.835251068
+408384004	Diabetic retinopathy 12 month review	7.151707987	5.65726593
+308505000	Diabetes monitoring call (procedure)	4.132211548	5.628987917
+416554009	Seen in community diabetes specialist clinic	6.362753782	5.62399768
+185753003	Attends diabetes monitoring	6.730818811	5.359515091
+735985000	Diabetes self management plan (record artifact)	5.422143153	5.194837253
+1024941000000100	National Health Service Diabetes Prevention Programme (procedure)	7.361300573	5.171549478
+25351000000101	Diabetic diet - good compliance	12.26542628	5.02683259
+473208009	Diabetic assessment of erectile dysfunction	6.775122935	4.935344903
+755491000000100	Diabetes structured education programme completed	11.64005653	4.644247714
+230572002	Diabetes + neuropathy	4.847893549	4.549433201
+183097007	Diabetic leaflet given	6.337193711	4.218414113
+861491000000107	Diabetic foot screening invitation	10.56653353	4.148550788
+698610002	Education in self management of diabetes	4.140731572	4.105302062
+279291000000109	Diabetes type 1 review	4.668973048	4.0437558
+161445009	Pre-existing diabetes mellitus	3.532401872	3.724380599
+408411003	On examination - right eye preproliferative diabetic retinopathy	2.816719872	3.694439174
+408412005	On examination - left eye preproliferative diabetic retinopathy	2.806495843	3.679468461
+306771000000105	Referral to XPERT diabetes structured education programme	11.14930316	3.646200211
+202461000000102	Referral to diabetic eye clinic	5.52097543	3.612931961
+754101000000103	Type 1 diabetic dietary review	7.543629082	3.513127211
+59276001	Proliferative diabetic retinopathy	3.019496439	3.238664147
+703138006	Type II diabetes mellitus in remission (disorder)	2.716183591	3.182108122
+857921000000103	Provision of written information about diabetes and driving	6.567234354	3.103927734
+861531000000107	Diabetic foot screening invitation first letter	9.17436164	3.068996072
+703136005	Diabetes mellitus in remission (disorder)	2.997344377	2.849425621
+885931000000100	Diabetes structured education programme not available	3.193304924	2.796196421
+473134007	Symptomatic diabetic peripheral neuropathy absent (situation)	4.12198752	2.689738021
+243860001	Diabetic monitoring status	2.815015867	2.614884458
+819331000000104	Diabetes monitoring injection site not checked (situation)	2.354934581	2.593260095
+247771000000108	Diabetic digital retinopathy screening offered	5.585727611	2.526723595
+1110921000000100	Quality and Outcomes Framework diabetes mellitus quality indicator-related care invitation (procedure)	8.104246649	2.513416295
+408392008	Under care of diabetes specialist nurse	2.303814439	2.491791933
+394684000	Pre-conception advice for diabetes mellitus	1.583020424	2.302162907
+719566006	Diabetic on non-insulin injectable medication	1.347867767	2.265567832
+420422005	Diabetes+ketoacidosis -no coma	2.537263091	2.050987619
+443694000	Type 2 diabetes mellitus uncontrolled	1.380243857	2.036016906
+160670007	DD - Diabetic diet	2.373678634	2.004412069
+193349004	PPDR - Preproliferative diabetic retinopathy	1.688668719	1.994431594
+306861000000107	Did not attend diabetes structured education programme	4.979101915	1.964490168
+312912001	Diabetic macular edema	1.429659995	1.941202393
+420715001	Type 2 diabetes mellitus with persistent microalbuminuria	2.211798181	1.936212156
+408413000	On examination - right eye proliferative diabetic retinopathy	1.642660591	1.866348831
+408414006	On examination - left eye proliferative diabetic retinopathy	1.615396515	1.864685418
+976341000000101	Diabetic on oral treatment and glucagon-like peptide 1	1.639252581	1.849714706
+870681000000109	In-house diabetic foot screening	3.936251001	1.79981233
+25361000000103	Diabetic diet - poor compliance	3.530697867	1.714978293
+416696002	Seen in community diabetic specialist nurse clinic	2.465694891	1.596876005
+713691000000108	Diabetes clinic administration	4.11857951	1.591885767
+394674001	On examination - Left diabetic foot - ulcerated	1.697188743	1.561944342
+394673007	On examination - Right diabetic foot - ulcerated	1.695484738	1.51370538
+365845005	HbA1 - diabetic control	1.50634021	1.445505467
+473209001	Diabetic erectile dysfunction review	1.908485334	1.352354367
+127013003	Kidney disorder due to diabetes mellitus	0.983210748	1.182686291
+312888008	Attending diabetes clinic	1.317195681	1.162725341
+860981000000106	Referral to DAFNE diabetes structured educn prog declined	3.540921896	1.149418041
+308458007	"Refer, diabetic liaison nurse"	0.9303866	1.082881541
+787061000000100	Diabetes care plan declined	3.039944496	1.051276703
+201251005	Neuropathic diabetic ulcer - foot	1.209843381	1.032979166
+408396006	Diabetic retinopathy screening not indicated	1.010474824	1.004701153
+754141000000100	Diabetic dietary review declined	2.286774391	0.894915928
+390854003	On examination - diabetic maculopathy present both eyes	0.724202024	0.891589103
+170771004	Diabetic - follow-up default	0.96957871	0.859984265
+315208005	Diabetic weight reducing diet	0.978098734	0.833369665
+315207000	Diabetic lipid lowering diet	0.971282714	0.81008189
+313436004	Type 2 diabetes mellitus without complication	0.725906029	0.79012094
+408475000	Diabetic medicine	0.759986124	0.78346729
+170761001	Diabetic treatment changed	0.821330295	0.780140465
+190447002	Diabetes mellitus induced by steroids	0.623665743	0.765169752
+716911000000104	Exception reporting: diabetes quality indicators	2.387310672	0.765169752
+374901000000103	Excluded from diabetic retinopathy screening	1.492708172	0.715267377
+201252003	Mixed diabetic ulcer - foot	0.865634419	0.713603965
+373031000000105	Diabetic retinopathy screening administrative status	1.545532319	0.70362349
+390842003	Seen by diabetologist	0.770210153	0.695306427
+414910007	On examination - right eye stable treated proliferative diabetic retinopathy	0.543577519	0.67700889
+414894003	On examination - left eye stable treated proliferative diabetic retinopathy	0.5367615	0.672018652
+193185007	Asymptomatic neuropathy co-occurrent and due to diabetes mellitus	0.799178233	0.667028415
+421986006	Type 2 diabetes mellitus with persistent proteinuria	0.637297781	0.640413814
+968061000000105	Diabetic injection administration education (procedure)	1.364907815	0.637086989
+405749004	Newly diagnosed diabetes	0.366361024	0.622116277
+861551000000100	Diabetic foot screening invitation second letter	3.471057701	0.620452864
+195302000	[D]Gangrene of toe in diabetic	0.557209557	0.592174852
+783901000000107	No evidence of diabetic nephropathy	0.386809081	0.587184614
+198841000000104	Seen in multidisciplinary diabetic clinic	1.702300757	0.573877314
+408391001	Under care of diabetologist	0.482233348	0.573877314
+1024571000000100	Under care of community-based diabetes specialist nurse	0.86222641	0.570550489
+762811000000109	Did not attend diabetes foot screening	1.203027362	0.552252952
+976361000000100	Diabetic on insulin and glucagon-like peptide 1	0.725906029	0.538945652
+417681008	Diabetic patient unsuitable for digital retinal photography	0.763394133	0.515657877
+413180006	Pan retinal photocoagulation for diabetes	0.632185767	0.515657877
+237632004	Hypoglycaemic event in diabetes	0.473713324	0.500687164
+306501000000105	DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme completed	1.981757538	0.492370101
+307171000000108	Did not attend DESMOND diabetes structured education program	1.475668124	0.475735976
+113131000000107	Informed consent for diabetes national audit	1.519972248	0.450784789
+527691000000107	Diabetic on subcutaneous treatment	0.630481762	0.417516539
+750721000000102	Excepted from diabetes qual indicators: service unavailable	1.146795205	0.400882414
+371781000000108	Eligible for diabetic retinopathy screening	0.732722048	0.399219001
+185755005	Diabetes monitoring default	0.523129462	0.279453301
+867891000000101	Erectile dysfunction due to diabetes mellitus	0.502681405	0.224560688
+512581000000104	Declined consent for diabetes year of care programme	0.5009774	0.204599738
+276651000000107	Attended DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme	0.978098734	0.189629026
+306531000000104	XPERT diabetes structured education programme completed	0.7514661	0.161351013
+862481000000103	Diabetic foot screening invitation third letter	1.182579305	0.136399825

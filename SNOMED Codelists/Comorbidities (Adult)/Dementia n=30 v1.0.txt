@@ -1,0 +1,31 @@
+SnomedCTConceptId	Description	2019-2020	2020-2021
+956861000000107	Dementia care plan reviewed	131.2185907	50.62263277
+249181000000100	Dementia annual review	75.50445101	25.73132804
+26929004	AD - Alzheimer's disease	41.58112421	36.47863624
+956841000000106	Dementia care plan agreed	25.52939935	11.37108788
+736371006	Dementia care plan	22.05834165	13.71982634
+429998004	[X]Other vascular dementia	17.18488803	16.11015011
+52448006	Organic dementia	17.15591995	20.53981761
+2776000	"[X]Delirium not superimposed on dementia, so described"	12.35062652	14.17061113
+715821000000107	Dementia monitoring first letter	11.33163167	3.736024486
+938551000000108	Dementia medication review	8.434823573	3.23367391
+959361000000105	Dementia advance care plan	6.933595377	1.422217692
+248711000000102	Dementia monitoring	5.401695096	2.342084807
+416975007	Dementia in Alzheimer's disease - type 1	4.452564444	5.945036293
+15662003	SD - Senile dementia	4.285571977	3.488176023
+717471000000101	Dementia monitoring second letter	3.278505163	0.726911265
+716341000000104	Excepted from dementia quality indicators: Patient unsuitabl	2.65483942	0.931511003
+716991000000108	Dementia monitoring telephone invite	2.504887	0.751862452
+40425004	Postconcussion syndrome	2.312334462	2.282201957
+80098002	CLBD - Cortical Lewy body disease	1.957901472	1.576915055
+425390006	Dementia associated with Parkinson Disease	1.755124905	1.814783043
+716131000000105	Excepted from dementia quality indicators: Informed dissent	1.381947862	0.404209239
+161465002	H/O: dementia	1.221771415	0.894915928
+165320004	Dementia test	0.967874705	0.648730877
+416780008	Dementia in Alzheimer's disease - type 2	0.945722643	1.029652341
+56267009	MID - Multi-infarct dementia	0.872450438	0.547262714
+713821000000106	Dementia monitoring administration	0.816218281	0.272799651
+716671000000102	Dementia monitoring third letter	0.725906029	0.15303395
+473203000	Dementia assessment	0.715682	0.427497014
+716221000000104	Dementia monitoring verbal invite	0.671377876	0.252838701
+230287006	[X]Mixed cortical and subcortical vascular dementia	0.557209557	0.497360339

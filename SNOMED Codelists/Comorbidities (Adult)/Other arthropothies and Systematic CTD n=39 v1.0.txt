@@ -1,0 +1,40 @@
+snomedctconceptid	term	condition	2019-2020	2020-2021
+33339001	psoriatic arthritis	Psa	10.75738206	9.725972917
+33339001	psoriatic arthropathy	Psa	10.75738206	9.725972917
+33339001	psoriatic arthropathy nos	Psa	10.75738206	9.725972917
+33339001	[x]other psoriatic arthropathies	Psa	10.75738206	9.725972917
+9631008	ankylosing spondylitis	Axial Spa	4.841077529	4.971939978
+9631008	marie - strumpell spondylitis	Axial Spa	4.841077529	4.971939978
+55464009	systemic lupus erythematosus	SLE	3.629530144	3.629566086
+55464009	systemic lupus erythematosus nos	SLE	3.629530144	3.629566086
+55464009	[x]other forms of systemic lupus erythematosus	SLE	3.629530144	3.629566086
+414341000	giant cell arteritis	GCA	3.33132931	3.41332246
+414341000	giant cell arteritis nos	GCA	3.33132931	3.41332246
+414341000	[x]other giant cell arteritis	GCA	3.33132931	3.41332246
+414341000	giant cell arteritis	Vasculitis	3.33132931	3.41332246
+414341000	giant cell arteritis nos	Vasculitis	3.33132931	3.41332246
+414341000	[x]other giant cell arteritis	Vasculitis	3.33132931	3.41332246
+31996006	vasculitis	Vasculitis	2.956448262	2.789542771
+191306005	henoch-schonlein purpura	Vasculitis	2.5406711	2.100889994
+400130008	temporal arteritis	GCA	2.089109838	1.927895093
+400130008	cranial arteritis	GCA	2.089109838	1.927895093
+400130008	horton's disease	Vasculitis	2.089109838	1.927895093
+400130008	temporal arteritis	Vasculitis	2.089109838	1.927895093
+400130008	cranial arteritis	Vasculitis	2.089109838	1.927895093
+83901003	sicca (sjogren's) syndrome	CTD	2.503182996	1.71331488
+105969002	connective tissue diseases	CTD	1.138275181	1.049613291
+89155008	scleroderma	CTD	1.187691319	1.039632816
+89155008	systemic sclerosis	CTD	1.187691319	1.039632816
+89155008	[x]other forms of systemic sclerosis	CTD	1.187691319	1.039632816
+723116002	axial spondyloarthritis	Axial Spa	0.657745838	0.888262278
+195353004	wegener's granulomatosis	Vasculitis	0.804290248	0.77681364
+195353004	granulomatosis with polyangiitis	Vasculitis	0.804290248	0.77681364
+67224007	reiter's syndrome	Other Spa	0.744650081	0.775150227
+67224007	reiter's disease / syndrome	Other Spa	0.744650081	0.775150227
+67224007	reactive arthropathies	Other Spa	0.744650081	0.775150227
+26889001	myositis unspecified	CTD	0.535057495	0.597165089
+410795001	juvenile rheumatoid arthritis - still's disease	Stills	0.627073752	0.530628589
+396230008	dermatomyositis	CTD	0.492457376	0.504013989
+396230008	poikilodermatomyositis	CTD	0.492457376	0.504013989
+396230008	[x]other dermatomyositis	CTD	0.492457376	0.504013989
+310701003	behcet's syndrome	Vasculitis	0.516313443	0.304404488

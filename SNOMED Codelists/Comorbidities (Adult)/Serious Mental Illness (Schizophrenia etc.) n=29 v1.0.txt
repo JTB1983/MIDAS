@@ -1,0 +1,30 @@
+SnomedCTConceptId	Description	2019-2020	2020-2021
+13746004	Bipolar disorder	24.90914161	23.76683787
+64905009	Paranoid schizophrenia	13.76495047	13.31894393
+58214004	Schizophrenia	9.303866002	8.935851977
+69322001	Psychotic disorder	9.119833487	8.549940276
+191526005	Schizophrenic disorders	4.963765872	5.036813065
+68890003	Schizoaffective disorder	4.171403658	4.351487113
+769063007	Antipsychotic medication review (procedure)	3.421641563	4.120272775
+191667009	Paranoid disorder	3.605674077	3.458234598
+191525009	Non-organic psychosis	2.317446477	2.43024567
+48500005	Delusional disorder	1.79261301	1.714978293
+191636007	Mixed bipolar affective disorder	1.519972248	1.440515229
+191604000	"Single major depressive episode, severe, with psychosis"	1.847141162	1.438851817
+83225003	Bipolar II disorder	1.061594967	1.179359466
+73867007	Severe major depression with psychotic features	0.797474229	0.953135365
+885271000000107	Antipsychotic medication physical health check (procedure)	2.629279348	0.94315489
+85248005	Bipolar disorder in remission	1.018994848	0.83004284
+83746006	Chronic schizophrenia	0.852002381	0.806755065
+231489001	Acute transient psychotic disorder	0.771914157	0.731901502
+198991000000103	H/O: psychosis	1.024106862	0.675345477
+191676002	Reactive depressive psychosis	0.586177638	0.650394289
+231487004	Persistent delusional disorder	0.604921691	0.588848027
+191567000	Schizoaffective schizophrenia	0.654337829	0.585521202
+4926007	Schizophrenia in remission	0.821330295	0.572213902
+231496004	Hypomania	0.621961738	0.563896839
+268619003	"Manic disorder, single episode"	0.712273991	0.464092089
+191483003	Drug-induced psychosis	0.623665743	0.462428676
+755311000000100	Non-organic psychosis in remission	1.233699448	0.331019089
+755321000000106	"Single major depressive episode, severe, with psychosis, psychosis in remission"	0.538465505	0.138063238
+755301000000102	Paranoid state in remission	0.61173771	0.069863325

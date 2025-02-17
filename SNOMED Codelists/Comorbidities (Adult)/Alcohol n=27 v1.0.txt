@@ -1,0 +1,28 @@
+SnomedCTConceptId	Description	2019-2020	2020-2021
+198421000000108	Hazardous alcohol use (observable entity)	24.44565232	14.74781527
+66590003	Alcohol dependence	21.45341996	20.35850565
+7200002	Alcoholism	16.73503077	16.31807667
+25702006	Alcohol intoxication	9.365210173	9.531353654
+198431000000105	Harmful alcohol use (observable entity)	8.942616992	5.65726593
+160592001	Alcohol intake above recommended sensible limits	7.364708582	8.836047227
+15167005	Alcohol abuse	4.290683991	3.965575412
+191480000	Alcohol withdrawal syndrome	3.097880658	3.361756673
+371422002	History of substance abuse (context-dependent category)	2.854207977	3.318507948
+64297001	Detoxication therapy for alcoholism	2.740039658	2.365372582
+160577002	Heavy drinker - 7-9u/day	2.169198062	2.37036282
+420054005	Alcoholic cirrhosis (disorder)	1.957901472	0.934837828
+166251000000100	Alcohol misuse - enhanced services administration	1.913597348	1.132783916
+166471000000105	Alcohol misuse - enhanced service completed	1.910189338	0.753525865
+41309000	Alcoholic liver damage	1.818173081	2.084255869
+228315001	Binge drinker	1.623916538	1.339047067
+50325005	Alcoholic fatty liver	1.537012296	1.675056393
+335781000000108	Single alcohol screening questionnaire (assessment scale)	1.260963524	1.650105205
+86933000	Heavy drinker	1.225179424	1.245895966
+268645007	Nondependent alcohol abuse	1.122939138	0.954798778
+308742005	Alcohol withdrawal-induced seizure	1.0019548	0.81673554
+160578007	Very heavy drinker - greater than 9 units/day	0.998546791	0.958125603
+228281002	Problem drinker	0.923570581	0.868301328
+161466001	H/O: alcoholism	0.736130057	0.70362349
+235875008	Alcoholic hepatitis	0.613441714	0.735228327
+376401000000103	Referral to alcohol brief intervention service (procedure)	0.591289652	0.326028851
+2043009	Alcoholic gastritis	0.574249605	0.625443102

@@ -1,0 +1,63 @@
+SnomedCTConceptId	Description	2019-2020	2020-2021
+433144002	Chronic kidney disease stage 3	53.09338038	58.93636847
+14669001	Acute renal failure syndrome	18.46970762	21.28169959
+431857002	Chronic kidney disease stage 4	10.90733448	11.18312227
+36689008	Acute pyelonephritis	11.71162473	10.10855779
+95570007	Kidney stone	12.5942992	9.015695777
+851931000000107	Acute kidney injury stage 1	14.69533707	7.665004823
+43064006	Hydronephrosis	6.003208777	6.562162332
+77945009	Simple renal cyst	5.050670115	5.460983254
+700378005	Chronic kidney disease stage 3A	4.484940534	5.055110603
+236423003	Renal impairment	4.384404253	4.669198902
+431856006	Chronic kidney disease stage 2	4.249787877	4.238375063
+433146000	Chronic kidney disease stage 5	3.895354886	4.225067763
+949881000000106	Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1	4.910941725	3.795907337
+709044004	Chronic kidney disease	3.225681015	3.484849198
+851951000000100	Acute kidney injury stage 3	4.110059486	3.034064409
+324341000000100	Chronic kidney disease stage 3A without proteinuria	6.436025987	2.927606009
+324281000000104	Chronic kidney disease stage 3 without proteinuria	5.391471068	2.50343582
+851941000000103	Acute kidney injury stage 2	4.362252191	2.272221482
+52254009	Nephrotic syndrome	2.189646119	2.197367919
+90688005	Chronic renal failure syndrome	2.203278158	2.152455782
+700379002	Chronic kidney disease stage 3B	1.743196872	2.130831419
+70536003	Transplant of kidney (procedure)	1.947677443	1.976134056
+420715001	Persistent microalbuminuria associated with type 2 diabetes mellitus	2.211798181	1.936212156
+105999006	Acquired renal cystic disease	1.784092986	1.841397643
+363518003	Malignant tumour of kidney	1.279707576	1.783178205
+949521000000108	Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1	1.083747029	1.71996853
+949901000000109	Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2	1.622212534	1.522022442
+949561000000100	Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2	0.882674467	1.495407842
+950061000000103	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1	1.743196872	1.259203266
+82525005	Congenital cystic kidney disease	1.352979781	1.257539854
+127013003	Diabetic renal disease	0.983210748	1.182686291
+950081000000107	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2	1.179171295	1.152744866
+324411000000105	Chronic kidney disease stage 3B without proteinuria	2.492958967	1.136110741
+324251000000105	Chronic kidney disease stage 3 with proteinuria	2.728111624	1.104505903
+950101000000101	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3	0.533353491	1.079554716
+431855005	Chronic kidney disease stage 1	0.950834657	1.064584003
+46177005	End-stage renal disease (disorder)	1.460332081	0.938164653
+302497006	Hemodialysis (procedure)	0.916754562	0.918203703
+253883006	Multiple renal cysts	0.669673872	0.91654029
+236407003	Immunoglobulin A nephropathy	0.703753967	0.914876878
+265764009	Renal dialysis (procedure)	0.996842786	0.913213465
+168041003	O/E: renal calculus	1.214955395	0.854994028
+195353004	Granulomatosis with polyangiitis	0.804290248	0.77681364
+40095003	Injury of kidney	0.685009914	0.758516102
+90708001	Kidney disease	0.759986124	0.733564915
+324441000000106	Chronic kidney disease stage 4 with proteinuria	1.513156229	0.686989365
+324311000000101	Chronic kidney disease stage 3A with proteinuria	1.354683786	0.685325952
+324371000000106	Chronic kidney disease stage 3B with proteinuria	1.504636205	0.640413814
+421986006	Persistent proteinuria associated with type 2 diabetes mellitus	0.637297781	0.640413814
+54967001	Double kidney	0.797474229	0.590511439
+197801000	Single acquired kidney cyst	0.564025576	0.582194377
+129128006	Infectious disorder of kidney	0.518017448	0.557243189
+42399005	Renal failure syndrome	0.567433586	0.552252952
+949921000000100	Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3	0.518017448	0.547262714
+949421000000107	Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2	0.32546491	0.520648114
+175902000	Cadaveric renal transplant (procedure)	0.564025576	0.515657877
+310670008	Hydronephrosis with ureteropelvic junction obstruction	0.506089414	0.504013989
+16297002	Congenital hydronephrosis	0.502681405	0.460765264
+950211000000107	Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2	0.574249605	0.437477489
+950231000000104	Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3	0.558913562	0.422506776
+324471000000100	Chronic kidney disease stage 4 without proteinuria	0.967874705	0.405872651
+324211000000106	Chronic kidney disease stage 2 without proteinuria	0.674785886	0.355970276

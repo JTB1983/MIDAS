@@ -1,0 +1,211 @@
+SnomedCTConceptId	Description	2019-2020	2020-2021
+394700004	Asthma annual review	862.2587858	831.1939215
+366874008	Number of asthma exacerbations in past year	126.7268342	463.4516751
+195967001	Airway hyperreactivity	428.0187322	413.5626072
+170638008	Asthma not limiting activities	438.9396987	274.9437895
+54150009	Upper respiratory infection (disorder)	400.9898087	264.7221197
+394703002	Chronic obstructive pulmonary disease annual review	292.0118881	256.2204184
+810901000000102	Asthma self-management plan review	97.1470155	236.6104484
+170635006	Asthma not disturbing sleep	364.3213302	208.0596361
+50417007	Lower respiratory tract infection (disorder)	368.5285179	193.6860887
+370208006	Asthma never causes daytime symptoms	306.4260644	180.8212564
+928451000000107	Asthma monitoring invitation short message service text message (procedure)	220.9054734	174.5784692
+811921000000103	Asthma self-management plan agreed	347.8793882	166.33127
+394720003	Asthma medication review	183.1566559	162.9495524
+723245007	Number of COPD exacerbations in past year	111.7452243	156.2909122
+446660005	Chronic obstructive pulmonary disease assessment test	110.3257883	139.6218554
+406162001	Asthma care	198.9953801	130.5279793
+527171000000103	Patient has a written asthma personal action plan	76.61375811	121.9647317
+185731000	Asthma monitor 1st letter	172.7622268	109.2645772
+394701000	Asthma follow-up	106.0112483	103.5208138
+401182001	Asthma monitoring by nurse	114.4375518	103.1132778
+281794004	Viral upper respiratory tract infection (disorder)	292.4191452	100.5765737
+473391009	Asthma never causes night symptoms	119.1917251	94.83281033
+708373002	Asthma accident and emergency attendance since last visit	84.46922007	82.8845183
+270442000	Asthma monitoring check done	95.2504582	81.69185154
+370203002	Asthma causes daytime symptoms 1 to 2 times per week	119.5529741	79.53773234
+370202007	Asthma causes daytime symptoms 1 to 2 times per month	131.6088078	75.4623717
+401135008	Health education - asthma	62.49267065	70.53035363
+370204008	Asthma causes daytime symptoms most days	103.6017855	67.06213855
+312453004	Asthma - currently active	36.54919814	52.59710341
+959401000000101	Asthma monitoring short message service text message first invitation (procedure)	86.12210469	48.45520627
+170636007	Asthma never disturbs sleep	82.07679738	45.01526921
+170656008	Asthma sometimes restricts exercise	69.29335366	44.55284054
+390891009	Chronic obstructive pulmonary disease monitoring	68.85883244	43.72945135
+13645005	CAFL - Chronic airflow limitation	90.01064355	42.76134527
+195742007	Acute lower respiratory tract infection (disorder)	91.99751311	41.96956092
+373899003	Asthma daytime symptoms	63.34296903	41.46055669
+170658009	Asthma never restricts exercise	79.38958187	40.7702405
+340901000000107	Asthma trigger - exercise	81.3679314	38.32835094
+811961000000106	COPD self-management plan agreed	61.44641173	36.23744142
+170637003	Asthma limiting activities	46.03880067	32.89897253
+185732007	Asthma monitor 2nd letter	70.10105191	32.62284605
+161527007	History of asthma	54.92177749	30.3955367
+195647007	Acute respiratory infection (disorder)	32.09833771	29.69191322
+708038006	Acute exacerbation of asthma	42.02757346	27.69581821
+716241000000106	Chronic obstructive pulmonary disease monitoring 1st letter	87.78180533	27.20344811
+195951007	Acute exacerbation of chronic obstructive pulmonary disease	37.55115294	24.72662689
+182728008	Asthma control step 2 (procedure)	33.64216602	24.36400296
+370205009	Asthma causes night symptoms 1 to 2 times per month	39.37614205	23.30773602
+275908000	Asthma monitoring	20.82975421	22.97339011
+390921001	Absent from work or school due to asthma	10.02636402	22.16497163
+771901000000100	Asthma causes night time symptoms 1 to 2 times per week	66.90093097	22.14002044
+736056000	Asthma clinical management plan	25.06420605	22.04520593
+128477000	Thorax abscess NOS	21.35117967	20.62964189
+170631002	Asthma disturbing sleep	31.18499115	20.27699844
+754061000000100	Asthma review using Royal College of Physicians three questions	61.52649995	20.24206677
+370226009	Asthma treatment compliance satisfactory	28.60853595	20.22210582
+12295008	Bronchiectasis	23.90889082	19.40537028
+275498002	Respiratory tract infection (disorder)	36.5321581	19.10429262
+390877003	Step up change in asthma management plan	17.37744057	18.92963431
+10509002	Acute bronchitis NOS	25.68787179	18.92630748
+810951000000101	COPD self-management plan review	33.30818109	18.76828329
+401183006	Asthma monitoring by doctor	29.37022608	18.30585462
+772011000000107	Asthma limits activities 1 to 2 times per week	45.17146224	17.65546033
+313297008	Moderate chronic obstructive pulmonary disease	27.93545407	17.31778759
+718241000000107	Issue of chronic obstructive pulmonary disease rescue pack	48.85552054	17.2262999
+185736005	Asthma monitor phone invite	28.15697469	17.16475364
+182729000	Asthma control step 3 (procedure)	23.32100918	17.0399977
+312454005	Asthma - currently dormant	16.79637494	16.49273499
+771981000000105	Asthma limits activities 1 to 2 times per month	53.00477213	15.84067729
+394702007	COAD follow-up	17.13717589	15.53793621
+716491000000100	Excepted from asthma quality indicators: Informed dissent	60.71198567	15.35329742
+400987003	Asthma trigger	17.40811265	15.20026347
+340891000000106	Asthma trigger - airborne dust	39.94868765	14.63303981
+162660004	Asthma resolved	18.60091598	14.45006443
+371611000000107	COPD patient unsuitable for pulmonary rehab - enh serv admin	30.2699406	13.78968967
+959421000000105	Asthma monitoring short message service text message second invitation (procedure)	40.20599236	12.99790531
+772051000000106	Asthma limits activities most days	34.89290552	12.79496899
+54398005	Acute upper respiratory infection (disorder)	16.61575044	12.71512519
+771941000000102	Asthma causes symptoms most nights	40.90122631	12.66688623
+313296004	Mild chronic obstructive pulmonary disease (disorder)	18.27885908	12.47060355
+281239006	Exacerbation of asthma (disorder)	21.85726908	12.44398895
+185734008	Asthma monitor 3rd letter	23.75041838	11.30288797
+50043002	Disorder of respiratory system (disorder)	10.03488404	10.17509429
+268511007	Other respiratory disease monitoring	9.078937373	9.983801855
+170655007	Asthma restricts exercise	17.74380159	9.423231841
+448003001	Royal College Physician asthma assessment 3 question score	16.51691816	9.378319704
+892301000000100	Asthma management plan declined (situation)	21.04786682	9.002388477
+185735009	Asthma monitor verbal invite	11.56848833	8.248862613
+395022009	Nocturnal asthma	10.74034202	8.0742043
+313299006	Severe chronic obstructive pulmonary disease	12.6317873	7.887902099
+473202005	Chronic obstructiv pulmonary disease medication optimisation	11.50373615	7.761482749
+85915003	Laryngotracheobronchitis	16.84408707	7.600131736
+741056003	Health education - chronic obstructive pulmonary disease	11.45943203	7.442107548
+170634005	Asthma disturbs sleep frequently	12.4153787	7.398858823
+170633004	Asthma disturbs sleep weekly	10.61935768	7.102771397
+32398004	Bronchitis NOS	12.97940427	6.997976409
+736283006	Chronic obstructive pulmonary disease clini management plan	8.102542644	6.530557495
+198411000000102	COPD (chronic obstructive pulmonary disease) does not disturb sleep	18.44925956	6.50726972
+87433001	Emphysema of lung	7.071619763	6.425762507
+285381006	Acute infective exacerbation of chronic obstructive airways disease (disorder)	10.29048476	6.299343157
+170632009	Asthma causing night waking	11.12374309	6.247777369
+390940007	Asthma monitoring due	7.88272603	6.146309206
+760621000000103	Chronic obstructive pulmonary disease 6 monthly review	16.25961344	6.034860568
+713701000000108	Asthma monitoring admin.	21.15181111	5.936719231
+717021000000106	Chronic obstructive pulmonary disease monitoring 2nd letter	32.26021816	5.935055818
+370207001	Asthma limits walking up hills or stairs	12.49887493	5.89679733
+858091000000102	Respiratory disease medication review (procedure)	11.89224924	5.534173404
+31387002	EIA - Exercise-induced asthma	5.868592401	5.487597854
+170609005	Follow-up respiratory assessment (regime/therapy)	4.273643944	5.158242178
+185242005	Seen in asthma clinic	5.924824558	5.083388615
+185940009	Patient in asthma study	2.498070981	5.058437428
+89581000000109	Did not attend asthma clinic (finding)	16.50328612	4.932018078
+390878008	Step down change in asthma management plan	5.398287087	4.88710594
+763077003	Asthma control questionnaire	2.349822567	4.835540152
+716901000000101	Chronic obstructive pulmonary disease monitor phone invite	17.54613704	4.552760026
+170647000	Asthma prophylactic medication used	3.719842396	4.506184476
+717291000000103	Excepted from asthma quality indicators: Patient unsuitable	11.60597644	4.428004088
+389145006	Atopic asthma	4.08620342	4.284950613
+811151000000105	Number days absent from school due to asthma in past 6 month	4.933093787	4.10363865
+233703007	[X]Other resp diseases principally affecting interstitium	3.862978796	3.845809712
+370225008	Asthma treatment compliance unsatisfactory	5.23470263	3.671151399
+716311000000100	Excepted from COPD quality indicators: Patient unsuitable	17.40811265	3.644536799
+708358003	Emergency asthma admission since last appointment	3.726658415	3.607941723
+716291000000101	Excepted from COPD quality indicators: Informed dissent	18.61454802	3.554712523
+760601000000107	Chronic obstructive pulmonary disease 3 monthly review	9.407810292	3.499819911
+370218001	Mild asthma	3.571593982	3.270268985
+445531003	Asthma control questionnaire (assessment scale)	1.750012891	3.245317797
+36118008	Pneumothorax NOS	3.039944496	3.122225272
+913741000000100	Prescription of respiratory disease rescue medication (procedure)	8.811408625	2.960874259
+10692761000119107	Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder)	2.15045401	2.827801259
+233683003	Hay fever with asthma	3.251241086	2.699718496
+847091000000104	Acute non-infective exacerbation of chronic obstructive pulmonary disease (disorder)	4.994437958	2.678094133
+170627008	Airways obstruction reversible	3.305769239	2.571635733
+704121003	Step up change in chronic obstructive pulmonary disease management plan (regime/therapy)	1.8249891	2.49012852
+302331000000106	Royal College of Physicians asthma assessment (assessment scale)	9.087457397	2.471830983
+959441000000103	Asthma monitoring short message service text message third invitation (procedure)	11.18338325	2.43689932
+182730005	Asthma control step 4 (procedure)	2.7195916	2.31047997
+308500005	Asthma monitoring call (procedure)	4.445748425	2.307153145
+182726007	Asthma control step 0 (procedure)	3.016088429	2.202358157
+170618007	Respiratory treatment changed (situation)	2.695735534	2.187387444
+170657004	Asthma severely restricts exercise	3.343257343	2.160772844
+390872009	Change in asthma management plan	0.983210748	2.109207056
+170628003	Airways obstruction irreversible	3.675538272	2.097563169
+763221007	Refuses asthma monitoring	2.334486524	2.077602219
+19242006	Pulmonary oedema NOS	2.066957777	2.064294919
+46775006	Respiratory distress syndrome in the newborn (disorder)	2.145341996	2.026036431
+527191000000104	Health education - asthma self management	7.91510212	2.006075481
+233678006	Childhood asthma	1.830101115	1.982787706
+190905008	Cystic fibrosis	2.140229981	1.974470644
+205237003	[X]Pneumonitis due to inhalation of other solids and liquids	0.461785291	1.966153581
+405944004	Wheezy bronchitis	3.37052142	1.896290256
+698509001	Under care of asthma specialist nurse	1.170651272	1.808129393
+1321821000000104	Exposure to confirmed case of severe acute respiratory syndrome coronavirus 2 infection (event)	0.022152062	1.768207493
+716281000000103	Chronic obstructive pulmonary disease monitoring verb invite	6.974491492	1.703334405
+527211000000100	Health education - structured asthma discussion	3.595450048	1.656758855
+183478001	"Emergency admission, asthma"	1.571092391	1.64012473
+305476004	Under care of respiratory physician (finding)	1.047962929	1.638461317
+857661000000104	Seen in chronic obstructive pulmonary disease clinic	1.790909005	1.59354918
+182707004	Respiratory medication (procedure)	1.3955799	1.58689553
+414087000	Emergency COPD admission since last appointment	2.11466991	1.508715142
+448739000	Recurrent lower respiratory tract infection (disorder)	1.727860829	1.48709078
+185728001	Attends asthma monitoring	1.0019548	1.440515229
+155597006	Pneumonitis due to inhalation of solids or liquids	1.589836443	1.432198167
+857791000000103	Chronic obstructive pulmonary disease rescue pack declined	3.953291048	1.390612854
+374591000000101	COPD - enhanced services administration	4.285571977	1.368988492
+700250006	Usual interstitial pneumonia	1.482484143	1.360671429
+717521000000104	Chronic obstructive pulmonary disease monitoring 3rd letter	8.453567625	1.345700717
+80423007	Spontaneous pneumothorax NOS	1.344459757	1.332393417
+370219009	Moderate asthma	1.826693105	1.329066592
+51615001	Cirrhosis of lung	2.227134224	1.325739767
+390941006	Chronic obstructive pulmonary disease monitoring due	2.262918324	1.300788579
+198401000000104	COPD (chronic obstructive pulmonary disease) disturbs sleep	3.360297391	1.295798341
+266361008	Asthma due to internal immunological process	1.225179424	1.275837391
+413845009	COPD accident and emergency attendance since last visit	1.419435967	1.267520329
+293991000000106	Very severe chronic obstructive pulmonary disease	4.087907425	1.265856916
+409622000	Respiratory failure	1.473964119	1.260866679
+154283005	Lung tuberculosis	1.422843976	1.234252079
+928511000000107	Asthma monitoring invitation email (procedure)	3.44208962	1.220944779
+24369008	Sarcoidosis of lung	1.134867172	1.071237653
+713731000000102	Chronic obstructive pulmonary disease monitoring admin	5.316494858	1.046286466
+370206005	Asthma limits walking on the flat	1.983461543	1.019671866
+527231000000108	Health education - structured patient focused asthma discuss	2.574751196	0.974759728
+401193004	Asthma confirmed	1.634140567	0.958125603
+312133006	Viral respiratory infection (disorder)	4.847893549	0.92984759
+426896000	Chronic type 2 respiratory failure	1.211547386	0.926520765
+715801000000103	Exception reporting: asthma quality indicators	2.755375701	0.91654029
+170642006	Asthma severity	0.741242072	0.89657934
+395159008	Chronic obstructive pulmonary disease leaflet given	2.049917729	0.821725777
+892321000000109	Chronic obstructive pulmonary disease management plan declined (situation)	1.666516657	0.808418477
+185730004	Asthma monitor offer default	1.230291438	0.746872215
+370220003	Occasional asthma	0.833258329	0.74354539
+312682007	Empyema	0.817922286	0.740218565
+233679003	Late-onset asthma	0.845186362	0.728574677
+275914007	Chronic resp. dis. monitoring	0.269232752	0.70362349
+183099005	Asthma leaflet given	0.782138186	0.700296665
+37471005	Allergic alveolitis	0.744650081	0.695306427
+196125002	DIPF - Diffuse interstitial pulmonary fibrosis	0.834962333	0.693643015
+19829001	Lung disease NOS	0.819626291	0.680335715
+698529000	Seen in cystic fibrosis clinic	0.657745838	0.635423577
+110011000000107	Did not attend chronic obstructive pulmonary disease clinic (finding)	2.777527762	0.612135802
+233659006	Asbestos-induced pleural plaque	0.734426053	0.608808977
+708090002	Acute severe exacerbation of asthma	0.541873514	0.597165089
+408501008	Admit COPD emergency	0.865634419	0.592174852
+370221004	Severe asthma	0.6441138	0.583857789
+827571000000106	Has chronic obstructive pulmonary disease care plan	1.842029148	0.492370101
+1240751000000100	Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 (disorder)	5.434071187	0.485716451
+713711000000105	Asthma clinic administration	0.6798979	0.477399389
+866881000000101	Chronic asthma with fixed airflow obstruction	1.097379067	0.417516539
+205731000000109	Chronic obstructive pulmonary disease excluded by spirometry	1.569388386	0.281116713
+176711000000100	Does not have asthma management plan	0.685009914	0.221233863

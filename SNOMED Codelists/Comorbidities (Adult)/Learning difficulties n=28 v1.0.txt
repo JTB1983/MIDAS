@@ -1,0 +1,29 @@
+SnomedCTConceptId	Description	2019-2020	2020-2021
+199751000000100	Learning disabilities annual health assessment (procedure)	93.86851034	77.76619802
+712491005	Completion of learning disabilities health action plan (procedure)	23.01258431	35.8748175
+442127005	Examination of learning disabled patient (procedure)	19.41883827	24.62515872
+416075005	On learning disability register (finding)	13.69679028	22.29139098
+712781000000107	Learning disability annual health check invitation first letter (procedure)	13.29805316	7.432127073
+413163007	Learning disabilities health action plan reviewed (procedure)	12.04220165	16.93021248
+520801000000100	Learning disability annual health check invitation (procedure)	11.36230375	8.415203863
+161129001	Learning difficulties (finding)	9.777579326	10.61589861
+984671000000103	Moderate learning disability (disorder)	9.068713345	7.415492948
+984661000000105	Mild learning disability (disorder)	8.724504383	7.50365381
+508171000000105	Severe learning disability (disorder)	7.029019644	5.507558804
+712801000000108	Learning disability annual health check invitation second letter (procedure)	4.626372929	1.873002481
+413126003	Learning disabilities health assessment (procedure)	4.542876696	5.930065581
+520841000000102	Learning disability annual health check telephone invitation (procedure)	4.427004372	4.18348245
+112861000000101	Learning disabilities health action plan offered (finding)	4.004411191	2.930932834
+521421000000100	Learning disability annual health check letter invitation (procedure)	3.876610834	2.541694308
+514021000000103	Learning disabilities annual health assessment declined (situation)	2.692327524	2.283865369
+520821000000109	Learning disability annual health check verbal invitation (procedure)	1.981757538	0.904896403
+712821000000104	Learning disability annual health check invitation third letter (procedure)	1.663108648	0.513994464
+870651000000103	Under care of community learning disability team (finding)	1.557460353	1.56028093
+716441000000105	Excepted from learning disability quality indicators - informed dissent (finding)	1.511452224	0.504013989
+41040004	Complete trisomy 21 syndrome (disorder)	1.496116181	0.989730441
+413162002	Learning disabilities health action plan declined (procedure)	1.1450912	1.794822093
+716569003	Seen by learning disability team (finding)	1.093971057	1.072901066
+514041000000105	Did not attend learning disabilities annual health assessment (finding)	0.974690724	0.765169752
+984681000000101	Profound learning disability (disorder)	0.843482357	0.74354539
+110359009	Intellectual disability (disorder)	0.642409795	0.71693079
+112851000000104	Learning disabilities administration status (finding)	0.564025576	0.547262714

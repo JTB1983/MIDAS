@@ -1,0 +1,72 @@
+SnomedCTConceptId	Description	2019-2020	2020-2021
+84757009	Epilepsy	37.23420806	38.06553177
+26929004	Alzheimer's disease	41.58112421	36.47863624
+52448006	Dementia	17.15591995	20.53981761
+49049000	Parkinson's disease	20.77693007	19.5267994
+429998004	Vascular dementia	17.18488803	16.11015011
+526961000000105	Pregnancy advice for patients with epilepsy (procedure)	5.740792044	14.78274693
+401062003	Epilepsy medication review (procedure)	12.44945879	12.65524234
+24700007	Multiple sclerosis	12.60622723	12.4107207
+170702005	Epilepsy monitoring (regime/therapy)	10.88177441	10.9069958
+416975007	"Primary degenerative dementia of the Alzheimer type, senile onset"	4.452564444	5.945036293
+429279006	Seen in epilepsy clinic	3.791410596	3.561366173
+15662003	Senile dementia	4.285571977	3.488176023
+230698000	Lacunar infarction	2.107853891	2.736313571
+40425004	Postconcussion syndrome	2.312334462	2.282201957
+19598007	Generalized epilepsy	1.944269434	2.265567832
+128188000	Cerebral palsy	2.191350124	2.245606882
+414860000	No epilepsy drug side effects (finding)	2.385606667	2.144138719
+91637004	Myasthenia gravis	1.944269434	2.017719369
+37340000	Motor neuron disease	1.922117372	1.952846281
+425390006	Dementia associated with Parkinson's Disease	1.755124905	1.814783043
+170704006	Follow-up epilepsy assessment (regime/therapy)	2.181126096	1.77985138
+193000002	Temporal lobe epilepsy	1.675036681	1.729949005
+314827004	Epilepsy control good (finding)	1.272891557	1.628480842
+230381009	Localization-related epilepsy	1.421139972	1.596876005
+80098002	Diffuse Lewy body disease	1.957901472	1.576915055
+526921000000102	Contraceptive advice for patients with epilepsy (procedure)	3.435273601	1.570261405
+88032003	Amaurosis fugax	1.504636205	1.570261405
+840261000000103	Epilepsy management plan given (situation)	3.770962539	1.495407842
+428061005	Malignant neoplasm of brain	1.57790841	1.463803004
+864171000000103	Non-epileptic attack disorder (disorder)	2.383902662	1.349027542
+94225005	Secondary malignant neoplasm of brain	0.913346553	1.275837391
+313307000	Epileptic seizure (finding)	1.087155038	1.242569141
+230745008	Hydrocephalus	1.117827124	1.144427803
+426373005	Relapsing remitting multiple sclerosis	0.991730772	1.122803441
+32798002	Parkinsonism	0.577657614	1.072901066
+416780008	"Primary degenerative dementia of the Alzheimer type, presenile onset"	0.945722643	1.029652341
+93211000000101	Epilepsy does not limit activities (finding)	1.095675062	0.998047503
+307766002	Left sided cerebral infarction	0.964466695	0.97642314
+58756001	Huntington's chorea	1.007066814	0.973096315
+278849000	Cerebral atrophy	0.89801051	0.92319394
+202061000000107	Epilepsy monitoring call first letter (procedure)	2.47251091	0.906559815
+307767006	Right sided cerebral infarction	0.8588184	0.848340378
+526941000000109	Pre-conception advice for patients with epilepsy (procedure)	1.654588624	0.768496577
+230695002	Partial anterior cerebral circulation infarction	0.775322167	0.761842927
+352818000	Tonic-clonic epilepsy	0.746354086	0.731901502
+527001000000105	Contraceptive advice for patients with epilepsy not indicated (situation)	1.623916538	0.73023809
+92824003	Neurofibromatosis type 1	0.773618162	0.706950315
+716011000000103	Epilepsy screening first invitation (procedure)	1.494412176	0.681999127
+407675009	Complex partial epileptic seizure (disorder)	0.715682	0.678672302
+398100001	Hereditary motor and sensory neuropathy	0.686713919	0.658711352
+230456007	Status epilepticus	0.630481762	0.633760164
+13920009	Hepatic encephalopathy	0.5367615	0.623779689
+527041000000108	Pregnancy advice for patients with epilepsy not indicated (situation)	1.378539853	0.608808977
+527021000000101	Pre-conception advice for patients with epilepsy not indicated (situation)	1.298451629	0.580530964
+94248000	Secondary malignant neoplasm of cerebrum	0.891194491	0.558906602
+85102008	Cerebellar ataxia	0.570841595	0.553916364
+56267009	Multi-infarct dementia	0.872450438	0.547262714
+230773005	Spastic cerebral palsy	0.570841595	0.535618827
+6118003	Demyelinating disease of central nervous system	0.509497424	0.504013989
+278287000	Left hemiparesis	0.650929819	0.500687164
+74390002	Wolff-Parkinson-White pattern (disorder)	0.661153848	0.497360339
+230287006	Mixed cortical and subcortical vascular dementia	0.557209557	0.497360339
+509341000000107	Petit-mal epilepsy	0.947426648	0.429160426
+195216008	Left sided cerebral hemisphere cerebrovascular accident	0.841778353	0.410862889
+28978003	Progressive supranuclear ophthalmoplegia	0.5725456	0.394228764
+192993002	Epileptic seizures - tonic (finding)	0.591289652	0.390901939
+198491000000106	Multiple sclerosis review (regime/therapy)	0.696937948	0.362623926
+715791000000102	Epilepsy screening second invitation (procedure)	0.630481762	0.264482588
+202071000000100	Epilepsy monitoring call second letter (procedure)	0.981506743	0.262819176
+924261000000104	Referral to community Parkinson's disease clinical nurse specialist (procedure)	0.610033705	0.259492351
+716781000000108	Excepted from epilepsy quality indicators - informed dissent (finding)	0.700345957	0.242858226

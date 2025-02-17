@@ -1,0 +1,66 @@
+SnomedCTConceptId	Description	2019-2020	2020-2021
+231504006	Mixed anxiety and depressive disorder (disorder)	318.5602823	343.0272634
+35489007	Depressive disorder (disorder)	282.7898143	296.52324
+366979004	Depressed	232.2575531	207.4158955
+413973005	Depression interim review (finding)	222.214149	225.4589309
+197480006	Anxiety disorder (disorder)	211.110854	197.7514688
+413974004	Depression medication review (procedure)	78.79999622	74.39279746
+162218007	Stress related problem	76.94944705	71.59161081
+198288003	Anxiety state (finding)	71.01780647	91.58749253
+74506000	Mourning	50.07388394	49.07233231
+48694002	Anxiety (finding)	35.95620449	32.77588
+21897009	Generalized anxiety disorder (disorder)	24.03839518	22.59080523
+225624000	Panic attack	17.83240984	18.30751803
+47505003	Posttraumatic stress disorder	16.29880555	13.89282124
+191616006	Recurrent depression (disorder)	13.58091795	12.23606239
+191736004	Obsessive-compulsive disorder	11.87009717	12.8631689
+87414006	Reactive depression (situational) (disorder)	11.5582643	11.55073644
+224974006	Feeling stressed	11.44579999	11.77862395
+58703003	Postpartum depression (disorder)	9.608882854	8.747886364
+310496002	Moderate depression (disorder)	9.298753987	6.696898745
+46206005	[X]Other mood affective disorders	8.433119568	10.33977213
+413972000	Depression annual review (finding)	8.417783525	12.70015448
+67195008	Acute stress disorder	8.209894944	7.175961547
+191708009	Chronic anxiety (finding)	7.545333087	7.245824872
+371631005	Panic disorder	6.739338835	6.68026462
+272022009	C/O - feeling depressed	5.890744463	6.284372444
+715831000000109	Excepted from depression quality indicators - informed dissent (finding)	5.490303344	1.71331488
+609311000000100	Depressive disorder NEC (disorder)	5.038742082	2.31713362
+310495003	Mild depression (disorder)	4.892197672	5.174876303
+162723006	O/E - anxious	4.856413572	3.232010497
+716831000000103	Excepted from depression quality indicators - patient unsuitable (finding)	4.645116982	1.473783479
+192080009	Chronic depression (disorder)	4.176515672	3.892385262
+24199005	Agitation	3.941363015	3.865770662
+716681000000100	Depression monitoring second letter (procedure)	3.212048977	0.921530528
+191709001	Recurrent anxiety (finding)	3.142184782	3.290229935
+300706003	Endogenous depression (disorder)	3.063800562	2.631518583
+310497006	Severe depression (disorder)	2.944520229	2.739640396
+395017009	C/O - panic attack	2.593495248	2.851089034
+78667006	Neurasthenia - nervous debility	2.051621734	2.087582694
+36923009	"Major depression, single episode (disorder)"	2.048213724	2.200694744
+191604000	"Single major depressive episode, severe, with psychosis (disorder)"	1.847141162	1.438851817
+83458005	Agitated depression (disorder)	1.732972843	1.69335393
+191722009	Agoraphobia with panic attacks	1.61369251	1.455485942
+713831000000108	Depression monitoring administration (record artifact)	1.446700043	0.761842927
+300895004	Anxiety attack (finding)	1.416027957	1.407246979
+70691001	Agoraphobia	1.368315824	1.355681192
+274948002	Endogenous depression - recurrent (disorder)	1.334235729	1.515368792
+386810004	Phobic disorder NOS	1.29163561	1.262530091
+162722001	O/E - depressed	1.172355276	1.034642578
+271952001	"[X]Reaction to severe stress, and adjustment disorders"	1.1450912	1.195993591
+413169006	On depression register (finding)	1.1093071	0.766833165
+25501002	Social phobia	1.039442905	1.044623053
+716961000000102	Depression monitoring third letter (procedure)	1.029218876	0.297750838
+231499006	Endogenous depression first episode (disorder)	1.012178829	1.144427803
+717261000000109	Depression monitoring verbal invitation (procedure)	0.959354681	0.504013989
+268621008	Recurrent major depressive episodes (disorder)	0.860522405	0.721921027
+73867007	Severe major depression with psychotic features (disorder)	0.797474229	0.953135365
+247803002	Seasonal affective disorder	0.727610033	0.590511439
+191676002	Reactive depressive psychosis (disorder)	0.586177638	0.650394289
+15639000	"Moderate major depression, single episode (disorder)"	0.581065624	0.575540727
+191738003	Obsessional neurosis	0.567433586	0.543935889
+832007	Moderate major depression (disorder)	0.555505552	0.287770363
+755321000000106	"Single major depressive episode, severe, with psychosis, psychosis in remission (disorder)"	0.538465505	0.138063238
+442347009	"[D]State of emotional shock and stress, unspecified"	0.499273395	0.908223228
+596004	Premenstrual dysphoric disorder	0.43281721	0.726911265
+			
