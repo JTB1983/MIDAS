@@ -1,0 +1,3 @@
+SNOMED Concept ID	DISPLAY	2019-2020	2020-2021
+306362008	Referral to pharmacist	22.03959759	27.71245233
+306179008	Referral to pharmacy service (procedure)	3.074024591	4.825559677

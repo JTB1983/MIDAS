@@ -1,0 +1,5 @@
+SNOMED Concept ID	DISPLAY	2019-2020	2020-2021
+183906007	Private referral to rheumatologist	2.588383234	2.896001171
+412717001	Referral to osteoporosis clinic	2.249286286	2.531713833
+306290009	Referral to rheumatologist	19.69318304	28.82860213
+415279002	Referral to rheumatology clinic	4.51561262	4.735735402

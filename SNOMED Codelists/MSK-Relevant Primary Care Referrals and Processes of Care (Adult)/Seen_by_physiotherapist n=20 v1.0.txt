@@ -1,0 +1,21 @@
+SNOMED ConceptID 	Term	2019-2020	2020-2021
+308447003	Referral to physiotherapist (procedure)	193.2426601	169.601539
+185276001	Seen in physiotherapy department (finding)	100.0761997	92.68534478
+185285001	Seen by physiotherapist (finding)	46.52103401	
+306635009	Discharge from physiotherapy service (procedure)	32.20909802	22.01692792
+247481000000104	In-house physiotherapy first appointment (procedure)	26.50409007	20.23374971
+247501000000108	In-house physiotherapy follow-up appointment (procedure)	18.33338724	13.4353828
+247491000000102	In-house physiotherapy discharge (procedure)	13.85867073	16.15672566
+308035000	Seen by physiotherapy service (finding)	8.865936778	21.75410874
+306551009	Discharge by physiotherapist (procedure)	6.955747439	8.435164813
+305860000	Seen by community-based physiotherapy service (finding)	2.481030934	8.371955138
+266739000	Physiotherapy/remedial therapy (regime/therapy)	2.322558491	1.931221918
+306637001	Discharge from community physiotherapy service (procedure)	2.00731761	1.863022006
+306636005	Discharge from hospital physiotherapy service (procedure)	1.138275181	0.828379428
+305613006	Under care of physiotherapist (finding)	0.952538662	1.536993155
+306079006	Referral by physiotherapist (procedure)	0.845186362	1.024662103
+305781009	Seen by community-based physiotherapist (finding)	0.833258329	0.603818739
+306553007	Discharge by hospital-based physiotherapist (procedure)	0.548689533	0.267809413
+387854002	Massage physiotherapy (regime/therapy)	0.489049367	0.818398952
+185370009	Referred by physiotherapist (finding)	0.287976805	1.670066155
+307383009	Discharge from community rehabilitation service (procedure)	0.695233943	0.751862452

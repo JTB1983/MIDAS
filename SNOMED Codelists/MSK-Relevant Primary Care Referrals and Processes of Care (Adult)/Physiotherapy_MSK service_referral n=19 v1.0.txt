@@ -1,0 +1,20 @@
+SNOMED Concept ID	DISPLAY	2019/20	2020/2021
+308447003	Referral to physiotherapist (procedure)	193.2426601	169.601539
+306170007	Referral to physiotherapy service (procedure)	30.94131847	45.65069279
+760081000000107	Physiotherapy self-referral (procedure)	16.96507141	12.68185694
+306171006	Referral to community-based physiotherapy service (procedure)	13.57239793	14.81268836
+400992001	Refer to community physiotherapist (procedure)	13.47526966	16.0685648
+416999007	Private referral to physiotherapist (procedure)	5.711823963	5.557461179
+248651000000107	Referral to orthopaedic physiotherapist practitioner (procedure)	5.083046206	2.501772408
+183683003	Refer to domiciliary physiotherapy (procedure)	2.041397705	2.160772844
+306359005	Referral to hospital-based physiotherapist (procedure)	1.997093581	2.435235907
+306358002	Referral to community-based physiotherapist (procedure)	1.845437157	1.771534318
+306172004	Referral to hospital-based physiotherapy service (procedure)	0.962762691	0.964779253
+390864007	Referral for exercise therapy (procedure)	2.037989696	1.220944779
+183868005	Referral to back pain clinic (procedure)	4.651933001	4.689159852
+413159000	Referral to musculoskeletal clinic (procedure)	194.0452463	
+374471000000101	Referral to musculoskeletal special interest general practitioner (procedure)	15.64617173	7.989370262
+413159000	Referral to musculoskeletal clinic (procedure)	215.6913727	
+841261000000105	Referral to community musculoskeletal service (procedure)	110.6291012	63.11153385
+112961000000107	Referral to intermediate care - community rehabilitation (procedure)	4.897309687	2.505099233
+307376002	Referral to community rehabilitation (procedure)	2.027765667	2.646489296

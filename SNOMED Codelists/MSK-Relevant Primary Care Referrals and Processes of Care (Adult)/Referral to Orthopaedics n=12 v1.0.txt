@@ -1,0 +1,11 @@
+SNOMED ConceptID 	Term	2019-2020	2020-2021
+835201000000105	Referral to orthopaedic triage service (procedure)	36.53897412	24.40059804
+850281000000109	Referral to paediatric orthopaedic service (procedure)	8.918760925	6.868230233
+763251001	Referral to spinal surgeon (procedure)	5.764648111	6.242787131
+845431000000102	Referral to spinal orthopaedic triage service (procedure)	8.201374921	4.92037419
+845431000000102	Referral to spinal orthopaedic triage service (procedure)	8.201374921	4.92037419
+206141000000106	In house orthopaedic first appointment (procedure)	0.555505552	1.052940116
+836041000000107	Private referral to spinal surgeon (procedure)	2.000501591	1.051276703
+326251000000100	Referral to orthopaedic special interest general practitioner (procedure)	1.744900877	0.821725777
+845451000000109	Referral to peripheral joint orthopaedic triage service (procedure)	0.761690129	0.513994464
+248651000000107	Referral to orthopaedic physiotherapist practitioner (procedure)	5.083046206	

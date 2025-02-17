@@ -1,0 +1,18 @@
+ConceptID	
+1983281000006108	KeeleSTarTMSK screening tool
+2019001000006100	KeeleSTarT MSK score-anxious or lowmood because of pain 
+1990661000006105	KeeleSTarTMSK score-bothersome measure overlast2weeks 
+2018981000006103	Keele STarTMSK score -current pain problem foryearor more
+1990611000006107	 KeeleSTarTMSKscore-has otherimportanthealth problems
+2018991000006100	 Keele STarTMSK score - struggle to manage or control pain by self 
+1990621000006104	Keele STarT MSK score -feel it is unsafe to be physically active 
+1990601000006109	Keele STarT MSK score-dressed more slowly due to pain last 2 wks 
+1990651000006108	Keele STarT MSKscore-stopd enjoyng thngs bcse of pain 1st 2wks 
+1990641000006106	Keele STarT MSK score-thinks pain condition wil last a long time 
+1990581000006104	Keele STarTMSK score-trblsme pain more than 1 ptbdylast2wks 
+1990631000006101	Keele STarT MSK score-worrying thoughts about pain in last 2 wks 
+1990591000006101	Keele STarT MSK scr-cn onlywlkshrtdistdueto pain last 2 wks 
+1983311000006105	Keele STarTMSK screeningtool -high risk 
+1983291000006106	Keele STarTMSK screening tool - low risk 
+1983301000006107	Keele STarT MSK screening tool - medium risk 
+1990671000006103	Keele STarT MSK screening tool - total score

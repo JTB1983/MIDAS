@@ -1,0 +1,6 @@
+SNOMED_Concept_ID	Description
+447233003	Subgroups for targeted treatment back screening tool score (observable entity)
+945601000000103	Subgroups for Targeted Treatment Back Screening Tool high risk (finding)
+945641000000100	Subgroups for Targeted Treatment Back Screening Tool medium risk (finding)
+945621000000107	Subgroups for Targeted Treatment Back Screening Tool low risk (finding)
+144801000000102	Subgroups for targeted treatment back screening tool subscore (observable entity)

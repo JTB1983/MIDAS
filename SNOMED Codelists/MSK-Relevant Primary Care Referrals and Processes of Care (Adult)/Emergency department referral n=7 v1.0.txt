@@ -1,0 +1,8 @@
+SNOMED Concept ID	DISPLAY	2019-2020	2020-2021
+183659006	Refer to hospital casualty	4.178219677	4.105302062
+306104004	Referral to accident and emergency department	3.885130858	3.777609799
+306254002	Referral to Accident and Emergency doctor	0.9303866	0.893252515
+183866009	Referral to emergency clinic	1.901669315	1.73992948
+199791000000108	Patient advised to contact emergency ambulance service as soon as possible (situation)	3.138776772	1.625154017
+183664005	Refer to hospital outpatient department (procedure)	16.58167034	20.12396449
+507291000000100	Self-referral to accident and emergency department (procedure)	91.1727748	43.20713982

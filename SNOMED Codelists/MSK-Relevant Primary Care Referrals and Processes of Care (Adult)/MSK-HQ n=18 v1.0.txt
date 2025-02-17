@@ -1,0 +1,19 @@
+SNOMED_Concept_ID	Description
+1036631000000109	Musculoskeletal Health Questionnaire (assessment scale)
+1099561000000102	Musculoskeletal Health Questionnaire item 1 - pain/stiffness during the day 
+1099571000000109	Musculoskeletal Health Questionnaire item 2 - pain/stiffness during the night
+1099581000000106	Musculoskeletal Health Questionnaire item 3 - walking
+1099741000000107	Musculoskeletal Health Questionnaire item 4 score - washing/dressing 
+1099601000000102	Musculoskeletal Health Questionnaire item 5 - physical activity levels
+1099761000000108	Musculoskeletal Health Questionnaire item 6 score - work/daily routine
+1099621000000106	Musculoskeletal Health Questionnaire item 7 - social activities and hobbies
+1099781000000104	Musculoskeletal Health Questionnaire item 8 score - needing help
+1099791000000102	Musculoskeletal Health Questionnaire item 9 score - sleep
+1099651000000101	Musculoskeletal Health Questionnaire item 10 - fatigue or low energy
+1099661000000103	Musculoskeletal Health Questionnaire item 11 - emotional well being
+1099671000000105	Musculoskeletal Health Questionnaire item 12 - understanding of your condition and any current treatment
+1099831000000109	Musculoskeletal Health Questionnaire item 13 score - confidence in being able to manage your symptoms
+1099691000000109	Musculoskeletal Health Questionnaire item 14 - overall impact
+1099701000000109	Musculoskeletal Health Questionnaire - physical activity levels - in the past week how many days have you done a total of 30 minutes or more of physical activity
+1036651000000102	Musculoskeletal Health Questionnaire total score (observable entity)
+1036661000000104	Assessment using Arthritis Research UK musculoskeletal health questionnaire (procedure)

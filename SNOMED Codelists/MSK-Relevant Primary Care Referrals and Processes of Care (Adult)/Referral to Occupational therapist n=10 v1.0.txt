@@ -1,0 +1,11 @@
+SNOMED Concept ID	DISPLAY	2019-2020	2020-2021
+306355004	Referral to community-based occupational therapist	0.734426053	0.938164653
+306167008	Referral to community-based occupational therapy service	2.595199253	3.431619998
+308453003	Referral to occupational therapist	8.301911202	9.048964028
+306166004	Referral to occupational therapy service	2.370270624	2.809503721
+185287009	Seen by occupational therapist (finding)	8.721096373	8.797788739
+897021000000105	Referral to Child and Adolescent Mental Health Service occupational therapy service (procedure)	2.624167334	1.763217255
+84478008	Occupational therapy (regime/therapy)	2.012429624	2.059304681
+410155007	Occupational therapy assessment (procedure)	0.478825338	0.550589539
+305605005	Under care of occupational therapist (finding)	0.349320976	0.79012094
+305853006	Seen by community-based occupational therapy service (finding)	0.170400476	0.597165089

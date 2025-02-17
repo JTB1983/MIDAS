@@ -1,0 +1,32 @@
+SNOMED Concept ID	DISPLAY	2019-2020	2020-2021
+183049006	Patient given advice	1131.893683	1581.032001
+313204009	Lifestyle education	455.3083685	419.9151796
+183073003	Patient advised about exercise (situation)	309.8187379	267.7927792
+418043000	Advice given	183.916642	233.1438967
+183039008	Reassurance given	205.7176789	165.4696224
+313184003	Patient given telephone advice out of hours (situation)	83.56439354	102.5992833
+698471002	Patient advised about weight management	76.08210863	67.98200567
+183096003	Self-help advice leaflet given (situation)	47.31510023	50.21842353
+507291000000100	Self-referral to accident and emergency department (procedure)	91.1727748	43.20713982
+248591000000100	Patient given advice about suitable footwear (situation)	26.88578714	28.47429526
+183040005	Patient reassurance	31.80013687	25.15745073
+306098008	Self-referral (procedure)	14.17220761	21.3232849
+311401005	Patient education (procedure)	27.22488409	19.66486263
+1036481000000106	Self-referral to Improving Access to Psychological Therapies programme (procedure)	15.41783509	15.78079444
+760081000000107	Physiotherapy self-referral (procedure)	16.96507141	12.68185694
+413333007	Patient given verbal advice	4.449156434	8.852681352
+314846003	Patient given choice of treatment (finding)	4.568436768	4.489550351
+413334001	Patient given written advice	4.323060082	3.579663711
+225967005	Self-care patient education	1.877813248	2.33709457
+293501000000109	Patient advised about nutrition (situation)	8.191150892	2.327114095
+313211008	Posture education	1.136571176	1.954509693
+310434002	Self-referral to service (procedure)	2.073773796	1.909597556
+1083411000000101	Signposting to self-management support service (procedure)	0.259008724	1.558617517
+720376002	Registered for access to online patient education	1.765348934	1.460476179
+199471000000102	"Patient advised about rest, ice, compression and elevation (situation)"	2.474214915	1.362334842
+907971000000102	Accident prevention education (procedure)	2.489550958	1.062920591
+183695003	Obstetric self-referral (procedure)	0.354432991	0.868301328
+228634008	Ergonomic education	0.398737114	0.861647678
+276049006	Self-help group support (finding)	0.14654441	0.731901502
+429778002	Patient given written advice on benefits of physical activity	0.262416733	0.588848027
+390942004	Patient given telephone advice during surgery hours (situation)	28.75167235	

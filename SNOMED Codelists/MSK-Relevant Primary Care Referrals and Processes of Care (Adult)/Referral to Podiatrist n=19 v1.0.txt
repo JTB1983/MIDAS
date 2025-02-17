@@ -1,0 +1,20 @@
+SNOMED Concept ID	DISPLAY	2019-2020	2020-2021
+185496007	In-house chiropody	0.623665743	0.632096752
+703975002	Private referral to podiatrist	0.749762095	0.74354539
+306351008	Referral to community-based podiatrist	2.828647905	4.133580075
+306161009	Referral to community-based podiatry service	16.96677542	17.42091917
+306162002	Referral to hospital-based podiatry service	0.671377876	0.625443102
+306160005	Referral to podiatry service	59.96733559	57.16816097
+185303007	Seen by podiatrist (finding)	44.8357733	41.65850278
+305599003	Under care of podiatrist (finding)	14.63740091	18.51045436
+308451001	Referral to podiatrist (procedure)	9.613994868	8.744559539
+305846002	Seen by podiatry service (finding)	3.79993062	3.40001516
+850181000000103	Referral to podiatric surgery service (procedure)	1.448404048	0.781803877
+247221000000101	In-house podiatry follow-up appointment (procedure)	1.426251986	0.352643451
+305600000	Under care of community-based podiatrist (finding)	1.400691915	1.373978729
+305847006	Seen by community-based podiatry service (finding)	1.271187553	1.044623053
+198031000000100	Referral to domiciliary podiatry service (procedure)	0.528241476	0.242858226
+306065003	Referral by podiatrist (procedure)	0.330576924	0.668691827
+185269006	Seen in chiropody clinic (finding)	2.109557896	1.771534318
+400982009	Chiropody follow-up (finding)	1.54212431	1.084544953
+185497003	In-house chiropody - domiciliary visit (procedure)	0.506089414	0.051565788

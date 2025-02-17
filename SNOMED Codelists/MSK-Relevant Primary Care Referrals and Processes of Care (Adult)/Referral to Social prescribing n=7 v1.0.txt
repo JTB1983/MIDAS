@@ -1,0 +1,8 @@
+SNOMED Concept ID	DISPLAY	2019-2020	2020-2021
+871731000000106	Referral to social prescribing service	93.52600538	139.3107973
+1084281000000109	Signposting to social prescribing service	4.467900487	6.056484931
+871691000000100	Social prescribing offered	97.7212651	80.44262874
+1083201000000102	Signposting to community exercise group	0.259008724	1.472120067
+928831000000102	Integrated care coordinator identified (finding)	0.454969272	1.763217255
+871711000000103	Social prescribing declined (situation)	33.80745448	16.0951794
+515721000000104	Social prescribing for mental health (regime/therapy)	2.3259665	3.694439174

@@ -1,0 +1,18 @@
+SNOMED Concept ID	DISPLAY	2019-2020	2020-2021
+183901002	Private referral to neurologist	4.110059486	4.476243051
+183882005	Private referral to neurosurgeon	0.877562453	0.90323299
+308474002	Referral to neurologist	15.44509916	18.00477695
+183521007	Referral to neurology service	51.3842636	51.43437807
+308482002	Referral to neurosurgeon	3.01268042	3.933970574
+183546007	Referral to neurosurgical service	6.787050968	5.426051592
+394610002	Neurosurgery	1.351275776	1.615173542
+183521007	Referral to neurology service (procedure)	51.3842636	51.43437807
+308474002	Referral to neurologist (procedure)	15.44509916	18.00477695
+183546007	Referral to neurosurgical service (procedure)	6.787050968	5.426051592
+183901002	Private referral to neurologist (procedure)	4.110059486	
+308482002	Referral to neurosurgeon (procedure)	3.01268042	3.933970574
+894171000000100	Referral to neurological rehabilitation service (procedure)	1.79261301	1.167715579
+183882005	Private referral to neurosurgeon (procedure)	0.877562453	0.90323299
+249201000000101	Referral to neurology special interest general practitioner (procedure)	0.71909001	0.354306864
+185247004	Seen in neurosurgery clinic (finding)	30.78795804	27.42634538
+394610002	Neurosurgery (qualifier value)	1.351275776	1.615173542

@@ -1,0 +1,8 @@
+SNOMED Concept ID	DISPLAY	2019-2020	2020-2021
+278414003	Pain management (procedure)	9.159025597	14.02922107
+306109009	Referral to pain management service (procedure)	7.952590225	10.72901066
+809591000000106	Referral to pain management clinic (procedure)	5.071118172	2.934259659
+305799001	Seen by pain management service (finding)	2.51170302	
+885251000000103	Private referral to pain management service (procedure)	1.030922881	0.520648114
+305652004	Seen by pain management specialist (finding)	1.020698853	0.758516102
+394882004	Pain management (specialty) (qualifier value)	0.896306505	0.580530964

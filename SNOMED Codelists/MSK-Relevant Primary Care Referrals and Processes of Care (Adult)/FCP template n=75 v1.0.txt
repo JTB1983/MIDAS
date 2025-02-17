@@ -1,0 +1,76 @@
+Concept ID	Code Term	Associated Text
+527081000000000	Advice declined	 via FCP - Declined offer of Selfback app [enter reason if known]
+418043000	Advice given	 via FCP - Self management
+183053008	Advice on over-the-counter medication	 FCP - for simple analgesia
+513141000000000	Appropriate referral	
+901681000000000	Assessment of fitness for work	 Task GP for Fit note (eMED3) issue
+413672003	Blood test requested	 via FCP
+413672003	Blood test requested	 via FCP tasked to GP
+161894002	C/O - low back pain	
+77477000	Computerised axial tomography	 via FCP tasked to GP
+319951000000000	Consent given to share patient data with specified third party	 via FCP - to share mobile number with SelfBack
+223470000	Discussion about signs and symptoms	 by FCP - Safety netting information
+774741000000000	Fitness for work statement issued	 AHP fit note provided
+310341009	Follow-up (wait and see)	 by FCP - Pending tests/investigations
+183616001	Follow-up arranged	 by FCP
+53057004	Hand pain	
+202001000000000	Health care services information leaflet given	 via FCP
+49218002	Hip pain	
+229075007	Home exercise programme	 via FCP
+408408004	Inappropriate referral	
+408408004	Inappropriate referral	 To FCP - Already referred to other service
+408408004	Inappropriate referral	 To FCP - Already referred to Physio for this episode
+408408004	Inappropriate referral	 To FCP - Did not meet other inclusion criteria
+408408004	Inappropriate referral	 To FCP - Duplication of care offered by GP/Other Practice clinician
+408408004	Inappropriate referral	 To FCP - Expectation to deliver Physiotherapy
+408408004	Inappropriate referral	 To FCP - Other
+408408004	Inappropriate referral	 To FCP - Under 18
+762911000000000	Informed consent given for treatment	 FCP
+315639002	Initial patient assessment	
+275659002	Injection given	 via FCP
+516561000000000	Internal practice referral	 via FCP to other GP practice member
+313204009	Lifestyle education	 via FCP
+113091000	Magnetic resonance imaging	 Requested by FCP
+113091000	Magnetic resonance imaging	 via FCP tasked to GP
+182836005	Medication review	 FCP - Muscle relaxants
+182836005	Medication review	 FCP - Pain analgesia
+182836005	Medication review	 FCP - Prescribed anti-inflammatories
+182836005	Medication review	 FCP - Strong opioids
+182836005	Medication review	 FCP - Weak opoids
+81680005	Neck pain	
+266750002	No follow-up arranged	 via FCP - Patient advised can initiate f/u if required (PIFU)
+1892730000000000	No red flag symptoms	
+56608008	Pain in wrist	
+1003722009	Pain of knee region	
+310344001	Patient came for second opinion	
+168537006	Plain radiography	 Requested by FCP
+168537006	Plain radiography	 via FCP tasked to GP
+183840006	Refer for nerve conduct study	 via FCP
+183840006	Refer for nerve conduct study	 via FCP tasked to GP
+183831007	Refer for ultrasound investigation	 Requested by FCP
+183831007	Refer for ultrasound investigation	 via FCP tasked to GP
+183660001	Refer to Accident and Emergency department	 via FCP
+183683003	Refer to domiciliary physiotherapy	 via FCP
+306160005	Refer to podiatry	 via FCP
+183444007	Referral for further care	 via FCP - Other
+882901000000000	Referral to general practitioner for medication review	 via FCP - task to GP
+183561008	Referral to GP	 via FCP - Task to GP for onward referral
+183561008	Referral to GP	 via FCP tasked to GP
+413159000	Referral to musculoskeletal clinic	 via FCP - Refer to MSK Service
+183521007	Referral to neurology service	 via FCP
+308453003	Referral to occupational therapist	 via FCP
+183545006	Referral to orthopaedic service	 via FCP
+308455005	Referral to orthotist	 via FCP
+306109009	Referral to pain management service	 via FCP
+306362008	Referral to pharmacist	 via FCP - Extended scope pharmacist
+308447003	Referral to physiotherapist	 via FCP
+306127007	Referral to rheumatology service	 via FCP
+871731000000000	Referral to social prescribing service	 via FCP
+1239500000000000	Seen by first contact physiotherapist	 Midlands FCP Template
+45326000	Shoulder pain	
+1083410000000000	Signposting to self-management support service	 via FCP
+1083410000000000	Signposting to self-management support service	 via FCP - To use Selfback App - [Insert token ID here]
+267109007	Symptom of ankle or foot	
+267106000	Symptom of head and neck region	
+279038004	Thoracic back pain	
+69736008	Vocational assessment	 via FCP - Referral for vocational /workplace assessment

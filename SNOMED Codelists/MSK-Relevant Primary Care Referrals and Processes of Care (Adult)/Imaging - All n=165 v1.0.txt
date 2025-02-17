@@ -1,0 +1,166 @@
+SNOMED_Concept_ID	Description	Type_imaging	2019-2020	2020-2021
+183831007	Refer for ultrasound investigation (procedure)	Ultrasound	189.4870336	230.439188
+16310003	Diagnostic ultrasonography (procedure)	Ultrasound	142.8944313	141.6944674
+183830008	Refer for X-ray (procedure)	X-ray	118.7367558	124.9289328
+74016001	Radiologic examination of knee (procedure)	Other/not specified	91.88504879	92.26450142
+77477000	Computerized axial tomography (procedure)	CT scan	81.55025991	79.57599083
+113091000	Magnetic resonance imaging (procedure)	MRI	72.60934692	75.04152834
+185181002	Seen in radiology department (finding)	Other/not specified	73.40511715	71.85775681
+183598009	Refer to Radiology department (procedure)	Other/not specified	70.40266076	68.80872168
+268425006	Pelvis X-ray (procedure)	X-ray	54.01354295	56.52109351
+2071000000108	X-ray report received (finding)	X-ray	97.28503988	46.99805692
+52221007	Radiography of foot (procedure)	Other/not specified	42.17241386	40.23628508
+29592009	Radiography of shoulder (procedure)	Other/not specified	37.08084763	37.83598084
+168537006	Plain radiography (procedure)	Other/not specified	28.27455102	32.63448994
+19490002	Radiography of ankle (procedure)	Other/not specified	30.63800562	32.19368562
+408740001	Radiography of hip (procedure)	Other/not specified	30.2716446	30.99602862
+49345004	Radiography of hand (procedure)	Other/not specified	29.21856966	30.95777013
+185444009	Ultrasound scan report received (finding)	Ultrasound	26.35924967	30.59348279
+24601000000109	Radiology request (record artifact)	Other/not specified	33.92843882	26.90736068
+90805008	Diagnostic radiography of lumbar spine (procedure)	Other/not specified	27.195916	25.91264
+168492000	Radiology/physics - general (situation)	Other/not specified	21.38696377	22.37123478
+60027007	Radiography of wrist (procedure)	Other/not specified	20.8979144	22.20822036
+312681000	Bone density scan (procedure)	Bone density scan	22.03278158	22.15166433
+168495003	Radiographic imaging procedure requested (situation)	Other/not specified	21.85386108	22.03522545
+308461008	Referral to radiology service (procedure)	Other/not specified	24.39453218	18.23266447
+306299005	Referral to radiologist (procedure)	Other/not specified	9.092569411	18.20937669
+66769009	Radiography of cervical spine (procedure)	Other/not specified	17.98065825	17.15144634
+401001008	Ultrasound scan requested (situation)	Ultrasound	13.30146117	16.65907624
+24611000000106	Radiology result (record artifact)	Other/not specified	29.10099333	14.75114209
+168539009	Plain X-ray requested (situation)	X-ray	5.998096763	14.67628853
+241686001	Dual energy X-ray absorptiometry (procedure)	Bone density scan	13.94046296	14.30035731
+241648005	Magnetic resonance imaging of lumbar spine (procedure)	MRI	13.70701431	13.91111878
+419394006	Computed tomography of abdomen and pelvis (procedure)	CT scan	10.89029444	13.81297744
+418023006	"Computed tomography of chest, abdomen and pelvis (procedure)"	CT scan	10.91585451	12.61365703
+168996007	Miscellaneous imaging procedures (procedure)	Other/not specified	15.41442708	11.87676529
+169254007	Ultrasound scan normal (finding)	Ultrasound	10.81531823	11.55073644
+371527006	Radiology report (record artifact)	Other/not specified	9.341354106	11.01844443
+51110005	Nerve conduction study (procedure)	Nerve conduction	10.44043718	10.66746439
+363679005	Imaging (procedure)	Other/not specified	12.07628175	10.40131839
+241641004	Magnetic resonance imaging of knee (procedure)	MRI	10.53926945	10.38468427
+201971000000106	Referral for bone density scan (procedure)	Bone density scan	23.617506	10.29319658
+76913009	Radiography of elbow (procedure)	Other/not specified	10.21891656	10.25992833
+241645008	Magnetic resonance imaging of spine (procedure)	MRI	7.780485744	9.799163067
+45554006	Radiography of thoracic spine (procedure)	Other/not specified	9.591842807	9.331744153
+241453007	Ultrasound scan of neck (procedure)	Ultrasound	7.354484554	9.276851541
+1083701000000107	Lumbar spine dual energy X-ray photon absorptiometry scan T score (observable entity)	Bone density scan	10.5188214	9.168729728
+60619004	Diagnostic radiography of finger (procedure)	Other/not specified	8.765400497	8.578218289
+390983001	Referral for dual energy X-ray photon absorptiometry scan (procedure)	Bone density scan	6.959155449	8.082521362
+169082008	Nuclear magnetic resonance normal (finding)	MRI	8.693832297	7.744848624
+306142005	Referral to ultrasonography service (procedure)	Ultrasound	7.069915758	7.734868149
+391068001	Hip dual energy X-ray photon absorptiometry scan T score (observable entity)	Bone density scan	7.949182216	7.706590136
+512481000000100	Referral for nerve conduction studies (procedure)	Nerve conduction	13.08505257	7.402185648
+440050006	Femoral neck dual energy X-ray photon absorptiometry scan T score (observable entity)	Bone density scan	6.142937168	6.425762507
+241646009	Magnetic resonance imaging of cervical spine (procedure)	MRI	6.086705011	6.174587219
+418394000	Ultrasound scan of abdomen and pelvis (procedure)	Ultrasound	5.372727015	6.106387306
+241074003	Thumb X-ray (procedure)	X-ray	5.434071187	5.562451417
+408493004	Referral for dual energy X-ray photon absorptiometry scan of hip and spine (procedure)	Bone density scan	5.089862225	5.151588528
+306144006	Referral to magnetic resonance imaging service (procedure)	MRI	4.113467496	4.253345775
+169083003	Magnetic resonance imaging scan abnormal (finding)	MRI	4.277051953	3.967238825
+241497006	Ultrasound scan of shoulder joint (procedure)	Ultrasound	3.79652261	3.879077962
+5846007	Diagnostic radiography of toes (procedure)	Other/not specified	3.90387491	3.554712523
+271310000	Radiology/physics in medicine (procedure)	Other/not specified	6.892699263	3.469878486
+22791004	X-ray of lumbosacral spine (procedure)	X-ray	3.287025186	3.423302935
+703976001	Private referral to radiologist (procedure)	Other/not specified	2.169198062	3.157156935
+79760008	Radiography of spine (procedure)	Other/not specified	3.04846452	3.052361947
+268427003	X-ray shaft of tibia/fibula (procedure)	X-ray	2.843983948	2.757937933
+1225002	Radiography of humerus (procedure)	Other/not specified	2.634391362	2.719679446
+168667009	Plain X-ray knee normal (finding)	X-ray	2.627575343	2.656469771
+241514000	Ultrasound scan of soft tissue mass (procedure)	Ultrasound	2.2901824	2.604903983
+169255008	Ultrasound scan abnormal (finding)	Ultrasound	2.083997824	2.533377245
+241502008	Ultrasound scan of hip (procedure)	Ultrasound	2.467398896	2.440226145
+959491000000108	Referral for open magnetic resonance imaging scan (procedure)	MRI	4.37247622	2.411948132
+241633004	Magnetic resonance imaging of shoulder (procedure)	MRI	2.152158015	2.39032377
+2690005	Magnetic resonance imaging of pelvis (procedure)	MRI	2.235654248	2.388660357
+390984007	Referral for quantitative ultrasound scan (procedure)	Ultrasound	2.083997824	2.38367012
+185494005	In-house ultrasound (procedure)	Ultrasound	2.024357658	2.362045757
+169071000	Computed tomography of pelvis (procedure)	CT scan	1.782388981	2.348738457
+168594001	Plain X-ray of clavicle (procedure)	X-ray	2.083997824	2.185724032
+47293000	Radiographic procedure on lower extremity and pelvis (procedure)	Other/not specified	1.908485334	2.099226581
+74170002	Radiography of upper limb (procedure)	Other/not specified	1.853957181	2.014392544
+169063004	Computed tomography scan requested (situation)	CT scan	1.443292034	1.991104769
+241075002	Plain X-ray of femur (procedure)	X-ray	1.874405238	1.969480406
+303919006	Ultrasound scan of musculoskeletal system (procedure)	Ultrasound	1.4671481	1.937875568
+168687005	Plain X-ray foot normal (finding)	X-ray	1.855661186	1.886309781
+1083511000000102	Lumbar spine dual energy X-ray photon absorptiometry scan Z score (observable entity)	Bone density scan	1.697188743	1.814783043
+363680008	Radiographic imaging procedure (procedure)	Other/not specified	1.511452224	1.813119631
+417726009	Magnetic resonance imaging of lumbar spine abnormal (finding)	MRI	1.915301353	1.804802568
+169064005	Computed tomography scan normal (finding)	CT scan	1.806245048	1.794822093
+303927002	Plain film of body region	Other/not specified	1.821581091	1.716641705
+310253005	Bone densimetry normal (finding)	Bone density scan	1.928933391	1.703334405
+306143000	Referral to computerized tomography service (procedure)	CT scan	1.504636205	1.665075918
+169081001	Magnetic resonance imaging requested (situation)	MRI	0.991730772	1.643451555
+271311001	Carpal bones X-ray (procedure)	X-ray	1.620508529	1.585232117
+391067006	Hip dual energy X-ray photon absorptiometry scan Z score (observable entity)	Bone density scan	1.39898791	1.536993155
+168668004	Plain X-ray knee abnormal (finding)	X-ray	1.697188743	1.532002917
+168603006	Plain X-ray pelvis normal (finding)	X-ray	1.565980376	1.52035903
+391076004	Lumbar dual X-ray absorptiometry scan result osteopenic (finding)	Bone density scan	1.6460686	1.48709078
+168679009	Plain X-ray ankle joint normal (finding)	X-ray	1.416027957	1.463803004
+241071006	Plain X-ray of scaphoid (procedure)	X-ray	1.385355872	1.450495704
+129679001	Computed tomography result abnormal (finding)	CT scan	1.533604286	1.413900629
+391071009	Hip dual energy X-ray photon absorptiometry scan result osteopenic (finding)	Bone density scan	1.531900281	1.403920154
+241091004	X-ray pelvimetry (procedure)	X-ray	0.316944886	1.402256742
+440103000	Femoral neck dual energy X-ray photon absorptiometry scan Z score (observable entity)	Bone density scan	1.177467291	1.390612854
+391075000	Lumbar dual energy X-ray photon absorptiometry scan result osteoporotic (finding)	Bone density scan	1.499524191	1.367325079
+865351000000108	Computed tomography report received (finding)	CT scan	2.479326929	1.362334842
+303678006	Computed tomography of regions (procedure)	CT scan	1.097379067	1.360671429
+37815002	Diagnostic radiography of calcaneus (procedure)	Other/not specified	1.32741971	1.304115404
+168639000	Plain X-ray hand normal (finding)	X-ray	1.214955395	1.285817866
+609185006	Magnetic resonance imaging report received (finding)	MRI	1.143387195	1.284154454
+241447007	"Ultrasound scan, non-obstetric diagnostic (procedure)"	Ultrasound	1.0019548	1.279164216
+169068008	Computed tomography of neck (procedure)	CT scan	1.059890962	1.270847154
+168630001	Plain X-ray of wrist normal (finding)	X-ray	1.170651272	1.267520329
+168496002	Radiographic imaging procedure carried out (situation)	Other/not specified	1.114419114	1.240905729
+427072002	Ultrasound scan of foot (procedure)	Ultrasound	1.187691319	1.234252079
+5433008	Skeletal X-ray of lower limb (procedure)	X-ray	1.196211343	1.224271604
+713023004	Plain x-ray of upper limb (procedure)	X-ray	0.998546791	1.122803441
+241647000	Magnetic resonance imaging of thoracic spine (procedure)	MRI	1.116123119	1.112822966
+168637003	Plain X-ray radius (procedure)	X-ray	0.96957871	1.111159553
+241643001	Magnetic resonance imaging of ankle (procedure)	MRI	1.003658805	1.074564478
+241578008	Computed tomography of cervical spine (procedure)	CT scan	1.061594967	1.074564478
+303922008	Ultrasound of shoulder region (procedure)	Ultrasound	1.046258924	1.041296228
+391031004	Bone density scan due (finding)	Bone density scan	1.078635014	1.034642578
+308032002	Seen by radiology service (finding)	Other/not specified	0.621961738	1.001374328
+440099005	Femoral neck dual energy X-ray photon absorptiometry scan result osteopenic (finding)	Bone density scan	1.134867172	0.959789015
+427253008	Ultrasound scan of lower leg (procedure)	Ultrasound	0.915050557	0.951471953
+168661005	Plain X-ray hip joint normal (finding)	X-ray	0.923570581	0.92319394
+241504009	Ultrasonography of knee (procedure)	Ultrasound	0.9303866	0.914876878
+391074001	Lumbar dual energy X-ray photon absorptiometry scan result normal (finding)	Bone density scan	0.961058686	0.838359903
+449922004	Ultrasonography of lower limb (procedure)	Ultrasound	0.778730176	0.825052603
+241446003	Ultrasound vascular - Doppler effect (procedure)	Ultrasound	1.015586838	0.825052603
+391069009	Hip dual energy X-ray photon absorptiometry scan result normal (finding)	Bone density scan	0.857114395	0.821725777
+168615005	Plain X-ray shoulder joint normal (finding)	X-ray	0.833258329	0.813408715
+310254004	Bone densimetry abnormal (finding)	Bone density scan	0.903122524	0.813408715
+241076001	Tibia and/or fibula X-ray (procedure)	X-ray	0.748058091	0.806755065
+168623007	X-ray shaft of radius/ulna (procedure)	X-ray	0.855410391	0.798438002
+303924009	Ultrasound scan of hand (procedure)	Ultrasound	0.867338424	0.733564915
+305881000	Seen by ultrasonography service (finding)	Ultrasound	0.509497424	0.728574677
+168579000	Plain X-ray lumbar spine normal (finding)	X-ray	0.746354086	0.72358444
+168580002	Plain X-ray lumbar spine abnormal (finding)	X-ray	0.742946076	0.71027714
+168541005	Plain X-ray result normal (finding)	X-ray	0.748058091	0.68366254
+168621009	Plain X-ray elbow normal (finding)	X-ray	0.650929819	0.668691827
+168575006	Plain X-ray cervical spine normal (finding)	X-ray	0.678193895	0.658711352
+72221006	Magnetic resonance imaging of neck (procedure)	MRI	0.538465505	0.648730877
+440035002	Dual energy X-ray photon absorptiometry scan T score (observable entity)	Bone density scan	0.972986719	0.643740639
+168604000	Plain X-ray pelvis abnormal (finding)	X-ray	0.758282119	0.642077227
+168688000	Plain X-ray foot abnormal (finding)	X-ray	0.667969867	0.630433339
+241077005	Tibia X-ray (procedure)	X-ray	0.618553729	0.630433339
+391070005	Hip dual X-ray absorptiometry scan result osteoporotic (finding)	Bone density scan	0.720794014	0.625443102
+241073009	Metacarpal X-ray (procedure)	X-ray	0.633889772	0.618789452
+241639000	Magnetic resonance imaging of hip (procedure)	MRI	0.598105672	0.612135802
+241082003	Hallux X-ray (procedure)	X-ray	0.621961738	0.607145564
+417525006	Magnetic resonance imaging of cervical spine abnormal (finding)	MRI	0.674785886	0.607145564
+429529009	Dual energy X-ray absorptiometry of hip (procedure)	Bone density scan	0.550393538	0.595501677
+22059005	"Computerized tomography, bone density study (procedure)"	CT scan	0.604921691	0.588848027
+305701006	Seen by radiologist (finding)	Other/not specified	0.448153252	0.582194377
+713021002	Plain radiography of pelvis (procedure)	Other/not specified	0.497569391	0.558906602
+241499009	Ultrasonography of wrist (procedure)	Ultrasound	0.584473633	0.548926127
+6238009	Diagnostic radiography of sacroiliac joints (procedure)	Other/not specified	0.6798979	0.543935889
+168631002	Plain X-ray of wrist abnormal (finding)	X-ray	0.509497424	0.540609064
+168576007	Plain X-ray cervical spine abnormal (finding)	X-ray	0.560617567	0.512331052
+305785000	Seen by diagnostic radiographer (finding)	Other/not specified	0.557209557	0.507340814
+241093001	Thoracolumbar spine X-ray (procedure)	X-ray	0.475417329	0.504013989
+241644007	Magnetic resonance imaging of foot (procedure)	MRI	0.506089414	0.495696927
+440100002	Femoral neck dual energy X-ray photon absorptiometry scan result osteoporotic (finding)	Bone density scan	0.712273991	0.494033514
+303938002	Plain film of neck	X-ray	0.674785886	0.445794551
+440083004	Dual energy X-ray photon absorptiometry scan of femoral neck result normal (finding)	Bone density scan	0.620257733	0.434150664

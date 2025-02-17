@@ -1,0 +1,31 @@
+SNOMED Concept ID	DISPLAY	2019-2020	2020-2021
+751481000000104	"eMED3 (2010) new statement issued, not fit for work (finding)"	2923.005465	1488.336675
+751621000000103	"eMED3 (2010) duplicate issued, not fit for work (finding)"	245.8640311	176.7974615
+751601000000107	"eMED3 (2010) new statement issued, may be fit for work (finding)"	210.4786682	92.32771109
+225888002	Unfit to return to work (finding)	31.59906431	25.2605823
+302119000	Fitness for work (observable entity)	3.636346163	15.32834623
+226066006	Work analysis (regime/therapy)	0.0357841	10.23664056
+751641000000105	"eMED3 (2010) duplicate issued, may be fit for work (finding)"	15.81998021	10.18174794
+160910001	Unfit for work (finding)	8.656344192	6.079772706
+751751000000104	"MED3 (2010) issued by hand, may be fit for work (finding)"	11.63835253	5.422724766
+228650000	Activity analysis	3.108104686	4.870471815
+14241000000101	Med3 certificate issued - back to work (finding)	8.284871154	4.025458262
+901681000000103	Assessment of fitness for work (procedure)	4.065755363	3.044044884
+774741000000101	Fitness for work statement issued (finding)	2.145341996	2.555001608
+281559009	Number of days off work (observable entity)	3.200120943	2.124177769
+160928004	Amount of time off work (observable entity)	2.608831291	1.650105205
+266959008	Problems at work (finding)	1.36320381	1.528676092
+225891002	Fit for work with restrictions (finding)	2.250990291	1.522022442
+160926000	Fit for work (finding)	1.555756348	1.408910392
+767361000000104	Capable of work on work capability assessment criteria (finding)	3.372225424	1.363998254
+14111000000105	IB113 DLS Incapacity for work form completed (finding)	3.540921896	1.320749529
+14131000000102	IB113 DLS Incapacity for work form received (finding)	3.614194101	1.294134929
+310402006	Benefits agency reports fit for work (finding)	1.249035491	0.974759728
+171001002	Benefits counselling	1.007066814	0.866637915
+14121000000104	IB113 DLS Incapacity for work form sent (finding)	2.389014677	0.778477052
+767351000000102	Limited capability for work on work capability assessment criteria (finding)	1.692076729	0.72358444
+939331000000101	Occupational health report (record artifact)	1.085451034	0.685325952
+925481000000108	Benefits agency reports unfit for work but fit note no longer needed (finding)	0.833258329	0.359297101
+939031000000103	Seen by occupational health advisor (finding)	0.952538662	0.327692263
+775281000000100	MED3 (2010) certificate issued - recommend phased return to work (finding)	0.691825933	0.307731313
+751731000000106	"MED3 (2010) issued by hand, not fit for work (finding)"	165.9836959	
