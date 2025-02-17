@@ -1,4 +1,7 @@
-Keele University is a member of the UK Reproducibility Network and committed to the principles of the UK Concordat on Open Research Data. We have a longstanding commitment to sharing data from our studies to improve research reproducibility and to maximise benefits for patients, the wider public, and the health and care system. We encourage the use of the codelists with appropriate citation and recognition of those involved in their creation. The codelists are covered by an open source MIT License.
+Keele University is a member of the UK Reproducibility Network and committed to the principles of the UK Concordat on Open Research Data. We have a longstanding commitment to sharing data from our studies to improve research reproducibility and to maximise benefits for patients, the wider public, and the health and care system.
 
-Suggested citation format for MIDAS codelists: 
-Peat, G., Bailey, J., Jordan, K., Yu, D., Hill, J., Wilkie, R., Wathall,S., Dziedzic,K., Stevenson,K., Garvin, S., Parry, E., Clarson, L., Burton, C., Welsh, V. (2021, December 17). Multi-level Integrated Data for musculoskeletal health intelligence and ActionS (MIDAS). doi:10.17605/OSF.IO/E542W
+We encourage the use of the codelists with appropriate citation and acknowledgement. The codelists are covered by an open source MIT License.
+
+Suggested citation format for MIDAS codelists:
+
+Peat G, Bailey J, Jordan K, Yu D, Hill J, Wilkie R, Wathall S, Dziedzic K, Stevenson K, Garvin S, Parry E, Clarson L, Burton C, Welsh V. Multi-level Integrated Data for musculoskeletal health intelligence and ActionS (MIDAS). SNOMED Codelist. [CODELIST NAME]. Version X.X, [DATE]. Available at: https://osf.io/e542w/. Last accessed: XXXXX  
